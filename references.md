@@ -80,6 +80,8 @@
 
 [35] Bureau International de l'Heure, "On the Determination of Universal Time by the Time Services according to the Decisions of the General Assembly of the I.A.U. in Dublin (1955)", *Bulletin Horaire*, Series 4, No. 4 (July–August 1955) — defines UT2 = UT1 + ΔTS and directs time services to transmit UT2 from 1 January 1956.
 
+[36] B. P. Leonard, "Proposal for the dimensionally consistent treatment of angle and solid angle by the International System of Units (SI)", *Metrologia* **58**(5) (2021) 052001.
+
 *(Reserved, pending decisions: Aikhenvald "Classifiers" (if [21] is absorbed); M. Hartl "The Tau Manifesto" (currently deliberately uncited).)*
 
 ---
