@@ -30,9 +30,9 @@
 
 [10] M. I. Kalinin, "On the dual nature of a plane angle", arXiv:2605.06586 [physics.class-ph] (2026). DOI: 10.48550/arXiv.2605.06586
 
-[11] T. Suga, *Universal Unit System / Harmonic System — formal description* (revised.pdf, 2026), https://github.com/suchowan/a_converter/blob/master/doc/revised.pdf — cited throughout by table and appendix: Table 4 (units), Table 7 (natural-scale representation), Table 8 (Earth-local extension), Appendix C eqs. (8)–(9), p. 21. **[exact document title and table/eq numbers to confirm against the final revised.pdf]**
+[11] T. Suga, *Proposal for the Universal Unit System* (revised.pdf, 2026), https://github.com/suchowan/a_converter/blob/master/doc/revised.pdf — cited throughout by table and appendix: Table 4 (units), Table 8 (Earth-local extension), Appendix C eqs. (8)–(9).
 
-[12] T. Suga, "電磁気量の次元の一整理法" [A method of organizing the dimensions of electromagnetic quantities], *パリティ (Parity)* **12**(4) (1997) 63–65. English translation: Appendix B of [22], pp. 20–25.
+[12] T. Suga, "電磁気量の次元の一整理法" [A method for rearranging the dimensions of electromagnetic quantities], *パリティ (Parity)* **12**(4) (1997) 63–65. English translation: Appendix B of [22], pp. 20–25.
 
 [13] JCGM 200:2012, *International Vocabulary of Metrology (VIM)*, 3rd edn — definitions 1.1 (quantity) and 1.9 (measurement unit).
 
@@ -52,9 +52,9 @@
 
 [21] T. Suga, "物質量の単位 mol の細くない話" [On the unit mole], blog post, 6 Mar 2026, https://suchowan.seesaa.net/article/202603article_6.html **[journal version: keep, or absorb and substitute a classifier-linguistics reference]**
 
-[22] T. Suga, *Proposal of the Universal Unit System* (univunit-e.pdf), 2002; file last modified 2002-02-10; earliest third-party archive 4 Nov 2015: https://web.archive.org/web/20151104111649/https://www.asahi-net.or.jp/~dd6t-sg/univunit-e/univunit-e.pdf ; current copy: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/univunit-e.pdf — cited by §3.2.2, Appendix A.2, A.3, Appendix B. **[exact document title to confirm]**
+[22] T. Suga, *Proposal for the Universal Unit System* (univunit-e.pdf), 2002; file last modified 2002-02-10; earliest third-party archive 4 Nov 2015: https://web.archive.org/web/20151104111649/https://www.asahi-net.or.jp/~dd6t-sg/univunit-e/univunit-e.pdf ; current copy: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/univunit-e.pdf — cited for §3.2.2, Appendix A.2, A.3, Appendix B.
 
-[23] T. Suga, *UUS Glossary*, §§1, 9, 12–13, https://github.com/suchowan/a_converter/blob/master/doc/glossary.md — definitions of ♮mol (incl. activity as ♮mol per unit time), meridian (m_E), solar (s_E), and the r_E identity. **[confirm m_E wording and r_E value; add rectifying-sphere line to §12 if adopted]**
+[23] T. Suga, *UUS Glossary*, §§1, 8, 9, 12–13, https://github.com/suchowan/a_converter/blob/master/doc/glossary.md — definitions of ♮mol (incl. activity as ♮mol per unit time), Ω₂ (incl. its role in the energy density and the field equation), meridian (m_E, with the rectifying radius), solar (s_E), and the r_E identity.
 
 [24] 高橋秀俊 [H. Takahashi], 『電磁気学』 [*Electromagnetism*] (東京: 裳華房 [Tokyo: Shokabo], 1959), pp. 185–187 (derivation of the magnetic scalar potential via solid angle).
 

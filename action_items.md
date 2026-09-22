@@ -36,25 +36,25 @@
 - [x] ISO 80000-3 — 3-23 で Np/s を確認(加えて 3-15.2 / 3-16.b / 3-23.a が s⁻¹ を共有)
 - [x] [26] abstract — 角度と対数の並行、CGPM が対数については未決定
 - [x] [28] abstract — 振幅比 / パワー比を「二つの異なる量」とする立場 → §4.5 で立場の相違として言及済み
-- [ ] [2] Mohr–Phillips: 実際の 2π 誤り事例を引用しているか(→ §4.2 の強度調整)/ 'ent' 提案の有無(→ §3 で engage するか)
-- [ ] [9] 本文 — complete exponential function の定義を読み、§4.5 の言及を案 B(積極的補強)に格上げするか判断
-- [ ] [16] Quincey の "two natural units" の正確な文言(§4.2 のパラフレーズ照合)
-- [ ] [18] McCarthy & Seidelmann — 1972 年以前の UT2 追従の実務 / 潮汐減速(現状は書誌のみで引用)
-- [ ] [10] Kalinin 2026 本文(9 頁)— 二元論への言及が §4 / §6.1(c) で必要か判断
-- [ ] [33] Eder 1982 — abstract から「批評家ではなく有次元化の先駆者」と判明。§5.1 の位置づけを再検討
+- [-] [2] Mohr–Phillips: 実際の 2π 誤り事例を引用しているか(→ §4.2 の強度調整)/ 'ent' 提案の有無(→ §3 で engage するか) — 読まずに、"published errors" を "the potential for" に弱めた
+- [-] [9] 本文 — complete exponential function の定義を読み、§4.5 の言及を案 B(積極的補強)に格上げするか判断 — 読まずに、案 A(最小限の言及)のまま
+- [-] [16] Quincey の "two natural units" の正確な文言(§4.2 のパラフレーズ照合)— Quincey の文言は未照合
+- [-] [18] McCarthy & Seidelmann — 1972 年以前の UT2 追従の実務 / 潮汐減速(現状は書誌のみで引用)— 書誌のみで引用
+- [x] [10] Kalinin 2026 本文(9 頁)— 二元論への言及が §4 / §6.1(c) で必要か判断
+- [x] [33] Eder 1982 — abstract から「批評家ではなく有次元化の先駆者」と判明。§5.1 の位置づけを再検討
 
 ## C. 自前文書への書き足し・照合で解決(revised.pdf / glossary.md 側)
 - [x] ν/ω「一種二単位」→ [22, §A.3, p. 18] で解決(書き足し不要)
 - [x] h = ħ/rad = 2πħ/Ω₁ → [22, §A.3, p. 19, eq. (30)] で解決(書き足し不要)
-- [ ] [11] 内部参照の一括照合: Table 4 / Table 7 / Table 8 / App. C eq. (8)(9) / p. 21 が最終版 revised.pdf と一致するか
-- [ ] [11] / [22] の正式タイトル確定
-- [ ] [23] m_E の定義文言(全周/Ω₁ か)と r_E の記載値(≈ 4.43 mm)
-- [ ] g_E 定義の向き(Table 8 では g_E 側が defined)と glossary の記述の一致
-- [ ] rectifying sphere との一致(m_E rad = 6367.45 km)— glossary §12 に一行追加するか
-- [ ] Ricci [sr/m²] の読み — 現状 "made explicit here"。glossary に先に書けば引用に格下げ可(帰属の判断)
-- [ ] univ mol の数値: 132.007729(2002)vs 132.007620(2026)— 精密値を出す箇所があれば 2026 版に統一
-- [ ] [20-fig] Ampère 磁気殻の帰属 — 高橋 [24] で兼用するか、英語圏向け古典教科書を併記するか
-- [ ] (論文外・glossary 宿題) 中黒 "・" 規則の明文化(#5/#10、下付き同層の細則込み)
+- [x] [11] 内部参照の一括照合: Table 4 / Table 7 / Table 8 / App. C eq. (8)(9) / p. 21 が最終版 revised.pdf と一致するか
+- [x] [11] / [22] の正式タイトル確定
+- [x] [23] m_E の定義文言(全周/Ω₁ か)と r_E の記載値(≈ 4.4 mm)
+- [-] g_E 定義の向き(Table 8 では g_E 側が defined)と glossary の記述の一致
+- [x] rectifying sphere との一致(m_E rad = 6367.45 km)— glossary §12 に一行追加するか
+- [x] Ricci [sr/m²] の読み — 現状 "made explicit here"。glossary に先に書けば引用に格下げ可(帰属の判断)
+- [-] univ mol の数値: 132.007729(2002)vs 132.007620(2026)— 精密値を出す箇所があれば 2026 版に統一
+- [-] [20-fig] Ampère 磁気殻の帰属 — 高橋 [24] で兼用するか、英語圏向け古典教科書を併記するか
+- [-] (論文外・glossary 宿題) 中黒 "・" 規則の明文化(#5/#10、下付き同層の細則込み)
 
 ## D. 編集・推敲(Markdown 上で完了させる)
 - [ ] トーン一括: "inverts the truth" / "sails through"(§5.4)/ "obliged to erase" / "embarrasses its maker" / "dread" の残置可否
