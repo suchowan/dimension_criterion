@@ -5,12 +5,6 @@
 
 The long-standing controversy over the dimensional status of the plane angle in the SI has been conducted as a binary question — dimensional or dimensionless — specific to the angle. We propose the general criterion that the debate has lacked: a kind of quantity may be expressed by pure numbers without loss of information if and only if it possesses a *unique* natural unit, understood as a focal point on which independent parties would converge without prior communication; where two or more comparably natural candidates exist, the kind should carry an independent dimension, and the displaced candidates become dimensioned constants of the system. The criterion adjudicates the amount of substance (unique natural unit *N*<sub>A</sub>⁻¹; the mole is legitimate but optional) and the plane and solid angles (two incommensurable candidates each — rad vs. Ω₁ = 2π rad, sr vs. Ω₂ = 4π sr; independent dimension required) within a single framework, and identifies the documented Hz/rad s⁻¹ incoherence and the century-old rationalization controversy in electromagnetism as the predicted failure modes of de-dimensionalizing non-unique kinds. Logarithmic quantities, with three candidates — log e, log 2, log 10 — furnish a third, purely mathematical test case. Rather than proposing any change to the SI, we examine the Universal Unit System (UUS)/Harmonic System, a complete implemented system that adopts the opposite choice, as an existence proof: quantities of dimension [X/angle] form a coherent, historically familiar category of bridging constants (the nautical mile and the original metre are of this form), and the added dimensions strengthen dimensional analysis, separating calendrical from physical time and yielding a symmetric five-dimensional arrangement of electromagnetic quantities, established there in 1997 — in which the field-strength ratio and the electrical resistance acquire distinct dimensions, and one coefficient, 1/2Ω₂, is exhibited in both the electromagnetic energy density and the Einstein field equation, unmasking the conventional 8π's as a single dimensioned constant. The dimension s⁻¹ itself resolves into three: [angle/time] for frequency, [amount of substance/time] for activity, [logarithmic quantity/time] for rate constants. The comparison is offered as complementary to the SI: each system makes a choice; side by side, the choices become visible as choices.
 
-*(~250 words; trim targets if a 150–200 word limit applies: the failure-modes sentence and the bridging-constants examples.)*
-
-
-
-*Draft — Sections 1 and 2 only (v0.1, 2026-07-09)*
-
 ---
 
 ## 1. Introduction
@@ -66,38 +60,6 @@ Two consequences of adopting (C2) for the angles are developed in the remainder 
 ---
 
 ## References
-
-[1] Bureau International des Poids et Mesures, *Le Système International d'Unités (SI)*, 9th edn, Version 4.01 (Sèvres: BIPM, June 2026).
-
-[2] P. J. Mohr and W. D. Phillips, "Dimensionless units in the SI", *Metrologia* **52** (2015) 40–47. doi:10.1088/0026-1394/52/1/40
-
-[3] I. M. Mills, "On the units radian and cycle for the quantity plane angle", *Metrologia* **53** (2016) 991–997.
-
-[4] P. Quincey, P. J. Mohr and W. D. Phillips, "Angles are inherently neither length ratios nor dimensionless", *Metrologia* **56** (2019) 043001. (arXiv:1909.08389)
-
-[5] M. I. Kalinin, "On the status of plane and solid angles in the International System of Units (SI)", *Metrologia* **56** (2019) 065009. (arXiv:1810.12057)
-
-[6] P. Quincey, "Angles in the SI: a detailed proposal for solving the problem", *Metrologia* **58** (2021) 053002. (cf. arXiv:2101.01578)
-
-[7] B. P. Leonard, Comment on Quincey (2021), *Metrologia* **59** (2022) 038001.
-
-[8] P. Křen, "Comment on 'Angles in the SI: treating the radian as an independent, unhidden unit does not require the redefinition of the term "frequency" or the unit hertz'", arXiv:2011.08666 [physics.gen-ph] (2020). DOI: 10.48550/arXiv.2011.08666. — preprint; this comment is the source for the 2016 CCU→CCL consultation and the reported CCL consensus.
-
-[9] P. J. Mohr, E. L. Shirley, W. D. Phillips and M. Trott, "On the dimension of angles and their units", *Metrologia* **59** (2022) 053001. DOI: 10.1088/1681-7575/ac7bc2
-
-[10] M. I. Kalinin, "On the dual nature of a plane angle", arXiv:2605.06586 [physics.class-ph] (2026). DOI: 10.48550/arXiv.2605.06586
-
-[11] T. Suga, *Universal Unit System / Harmonic System: formal description* (revised.pdf), https://github.com/suchowan/a_converter/blob/master/doc/revised.pdf
-
-[12] T. Suga, "電磁気量の次元の一整理法" [A way of organizing the dimensions of electromagnetic quantities], *パリティ (Parity)* **12**(4) (1997) 63–65. — **volume/issue to be verified against the PDF**
-
-[13] JCGM 200:2012, *International Vocabulary of Metrology (VIM)*, 3rd edn — definitions 1.1 (quantity) and 1.9 (measurement unit).
-
-[14] T. C. Schelling, *The Strategy of Conflict* (Harvard University Press, 1960), ch. 3. — the notion of focal points in coordination games.
-
-[15] G. Kuroki, remark on X (Twitter), 14 Jan 2017, https://x.com/genkuroki/status/820174724021899265 — **consider whether a social-media citation is acceptable for the target venue; alternatively rephrase as a well-known observation with the URL in a footnote.**
-
-[16] P. Quincey, "Comment on 'Dimensionless units in the SI'", arXiv:1505.07230 [physics.data-an] (2015). DOI: 10.48550/arXiv.1505.07230. — preprint.
 
 ### Candidate additional references (not yet cited in Sections 1–2; likely needed in Sections 4–5)
 
@@ -167,24 +129,6 @@ A remark on rigor is in order, because a critic is entitled to ask in what sense
 [^rectification]: Both the rectification of arc length and the small-angle identities are limit statements; the plane angle retains, via the circle's symmetry, one exact finite relation, *s* = *rθ*, which the solid angle has no counterpart of.
 ---
 
-## New references introduced in Sections 3–4
-
-[21] T. Suga, "物質量の単位 mol の細くない話" [On the unit mole], blog post, 6 Mar 2026, https://suchowan.seesaa.net/article/202603article_6.html — source of the unit/counter-word gradation point. **For the paper, consider whether to keep as a citation or absorb the point into the text; a linguistics reference on classifier languages (e.g. Aikhenvald, *Classifiers*, OUP 2000 — to be verified) could substitute.**
-
-[22] T. Suga, *Proposal of the Universal Unit System* (univunit-e.pdf), §3.2.2 "Total solid angle of hyperspherical surfaces", https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/univunit-e.pdf — **check the document's exact title for the bibliography; also decide whether [11] (revised.pdf) and [22] should be consolidated into a single citation of the UUS documentation.**
-
-*(The π/τ dispute in §4.3 is left uncited; if a citation is wanted, the customary reference is M. Hartl, "The Tau Manifesto" (2010, tauday.com) — decide whether citing it suits the venue's tone, or keep the point as common knowledge.)*
-
----
-
-## Notes for the author (not part of the paper)
-
-1. **§3, 'ent' proposal:** Mohr & Phillips [2] may contain a concrete proposal for a counting unit (I recall a suggested unit for entities). If so, §3's final paragraph could engage it directly — their proposal would be, in our terms, an exercise of the (C1) *option*. Please check the paper; I did not re-verify this detail.
-2. **§4.1 UUS working-unit choice:** I state the UUS selects rad "for the analytic reasons above" — confirm this matches the stated rationale in revised.pdf/glossary (the 物質量_平面角_立体角 memo says 便宜上 "for convenience", which I have rendered as the analytic grounds; adjust if the intended nuance differs).
-3. **§4.2 factor-of-2π error literature:** I attribute "published factor-of-2π errors" to the Mohr–Phillips line of argument. Their paper (and the Bert/Ernie example) supports the confusion claim; whether they cite actual published errors should be checked — if not, soften to "the potential for factor-of-2π errors".
-4. **§4.3 π/τ paragraph:** *Resolved — replaced by the battery-of-formulas version* — This is my addition, not in your memo. It strengthens the "contest exists even among mathematicians" point but has a slightly popular flavor; cut without damage if you prefer a drier register.
-5. **§4.4:** *Resolved 2026-07-09* — univunit-e.pdf §3.2.2 confirms solid angle as an integer power of plane angle (sr = rad², Ω<sub>*k*</sub> formula); text updated accordingly. Note also the UUS speech convention Ω₁ = "cycle", Ω₂ = "turn"; §4.1 and §4.3 wording adjusted to avoid using "turn" for Ω₁. A "remark on rigor" paragraph was added at the author's prompting, covering the limit-based definition of angle multiplication (eqs. (18)–(19)); please check that my reading of eq. (19) — the limit makes the curvature deviation vanish and anchors sr = rad² infinitesimally — matches the intended meaning.
-6. The irrationality point in §4.1 (Ω₁/rad = 2π irrational, hence neither candidate derivative of the other) is also my sharpening of your memo's "ユニークに定まらない"; it gives §3 vs §4 a clean structural contrast (derivative rivals vs. non-derivative rivals). Please sanity-check that you are happy to own it.
 # Section 4.5 — A Third Test Case: Logarithmic Quantities
 
 ---
@@ -204,34 +148,6 @@ Now apply the test. Candidates for the natural unit of the logarithmic kind pres
 And, as with the angles, the verdict is corroborated rather than contradicted by the historical record. Shannon opened the founding paper of information theory by identifying the choice of logarithmic base with the choice of the unit of information, naming bits, decimal digits and natural units in a single breath [25] — the identification this subsection formalizes, present at the birth of the field. Metrology, for its part, has never managed to collapse the logarithmic units into the number one in practice: the neper, bel and decibel persist as named units whose definitions and interrelation required a paper of their own [26], the information units are standardized as a plurality (shannon, hartley, natural unit) [27] — three units for one kind, coexisting because no choice among them was ever forced. The neper and the bel are sometimes held to belong to two different kinds of quantity — the one to amplitude ratios, the other to power-like ratios — on the ground that their defining equations differ by a factor of two [28]. On the present account the factor belongs to the argument of the logarithm rather than to the logarithmic kind itself: what varies is which ratio is being taken, not which kind of quantity results. The UUS accordingly treats such expressions as binary, a scale interval applied to a base point, so that the choice of reference is recorded alongside the unit [11, App. A.1]; and in the architecture described in Section 7 it implements the verdict itself — the logarithmic dimension with the neper elected as working unit, and the displaced candidates housed as dimensioned constants ℧<sub>*k*</sub> = log 2<sup>*k*</sup>, the bit among them.
 
 One further datum deserves record because of its evidential form. In 2026 — twenty-four years after [22] — the same object was formalized independently, under the very same name "baseless logarithm," in an essay by Kritchevsky [29], which develops the same picture of base-change as unit-change before a general audience. The convergence has the same structure as that noted in Section 6.1(c) between the UUS's Ω₁ and the *θ*<sub>N</sub> of the SI-side proposals: two parties, starting from different concerns and unaware of each other, arriving at the same construction. A criterion may be argued for; a construction that keeps being rediscovered argues for itself.
-
----
-
-## New references introduced in Section 4.5
-
-[25] C. E. Shannon, "A Mathematical Theory of Communication", *Bell System Technical Journal* **27** (1948) 379–423, 623–656; the identification of logarithmic base with unit of information is at pp. 379–380.
-
-[26] I. M. Mills, B. N. Taylor and A. J. Thor, "Definitions of the units radian, neper, bel and decibel", *Metrologia* **38** (2001) 353–361. DOI: 10.1088/0026-1394/38/4/8
-
-[27] ISO 80000-13:2025, *Quantities and units — Part 13: Information science and technology*, 2nd edn (first published 2008) — units shannon (Sh), hartley (Hart), natural unit of information (nat).
-
-[28] I. M. Mills and C. Morfey, "On logarithmic ratio quantities and their units", *Metrologia* **42**(4) (2005) 246–252. DOI: 10.1088/0026-1394/42/4/008
-
-[29] A. Kritchevsky, "Everything Is Logarithms", blog essay, 25 May 2026, https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html — independent reinvention of the baseless logarithm, including the base-as-unit picture.
-
----
-
-## Notes for the author (not part of the paper)
-
-1. **Placement:** written as §4.5 so §4's arc becomes: angle (4.1–4.3) → solid angle (4.4) → logarithm (4.5), i.e. the criterion applied three times with escalating purity (physical → geometric → purely mathematical). If length forces a cut, the minimal salvage is one paragraph in §4.2 citing [22, App. A.2] and [25].
-2. **Priority/timestamp:** in the paper, cite [22] as "2002 (file last modified 2002-02-10; earliest third-party archive 2015-11-04)" only if a reviewer asks; the reference list needs just the year. The archive URL: https://web.archive.org/web/20151104111649/https://www.asahi-net.or.jp/~dd6t-sg/univunit-e/univunit-e.pdf
-3. **Tone check on the closing sentence** ("argues for itself") — it is the §4.5 counterpart of §6.1(c)'s convergence claim and stays within the agreed restraint (no priority assertion in the text; the dates speak through the reference list). Cut the final sentence if it reads as too pleased with itself.
-4. **[28] is the one reference in this fragment I have not read** — the failure-mode sentence is flagged accordingly in the text; verify before unflagging.
-5. **Neper subtlety:** Np is entangled with the field/power-quantity distinction (factor ½) in acoustics/EE usage; §4.5 deliberately stays at the level of the mathematical kind and does not enter that thicket. If a reviewer raises it, the response is that the ½ belongs to the *quantity being logarithmed* (amplitude vs power), not to the unit of the logarithmic kind — consider whether to preempt in a footnote.
-6. **For the journal short version (in the full version §4.5 is unconditional; decided 2026-07-10: the Kritchevsky mention is required in either version):** Insert the following closing paragraph at the end of §4 (and keep [25], [29], and [22, App. A.2] in the reference list; adjust §7's "discussed as a prospective third test case in Section 4" to "flagged in Section 4"):
-
-> *The criterion's reach extends beyond the angular kinds. The logarithm, taken baseless — defined by log(*xy*) = log *x* + log *y*, which fixes the structure of the kind but no normalization — is a purely mathematical kind with at least three mutually non-derivative natural-unit candidates, log e, log 2 and log 10; it was formalized as a quantity, under the name "baseless logarithm", in an appendix to the original UUS proposal [22, App. A.2], and the same object was independently reformalized, under the same name, a quarter of a century later [29]. Shannon's founding identification of the choice of logarithmic base with the choice of the unit of information [25] belongs to the same circle of ideas. We only flag the case here; its development is left to a separate note. Its significance for the present argument is that the criterion's machinery engages nothing but the ratio structure of a kind, and so operates independently of physical measurability.*
-# Section 5 — Living with Dimensioned Angles: Bridging Constants
 
 ---
 
@@ -270,25 +186,6 @@ The non-arbitrariness propagates down the chain. The gravity *g*<sub>*X*</sub>, 
 The remaining task on the list — "dimensional analysis breaks" — understates the situation, and it is worth saying plainly why. The method of dimensions derives its power from the constraints that dimensions impose; every dimension added (where a genuine distinction of kind exists, which is what (C2) certifies) adds constraints and therefore *narrows* the space of formulas that pass the check. In a dimensionless-angle system, an expression that confuses ν with ω, or a torque with an energy, balances perfectly and passes the check undetected; the factor-of-2π confusions exhibited in the debate [2] are exactly the errors that the weakened analysis cannot catch. With the angle dimension present, they are type errors, caught at inspection. What the critics register as "breakage" is the experience of formulas, long written in the convention that erases angle factors, failing the stronger check until the erased factors are restored — a one-time migration cost, not a defect of the destination. Put more sharply, the 'breakage' is always the same experience: that of testing a new dimensional assignment against the old set of defining relations — a hybrid that no assignment could satisfy. Since coherence is relative to an elected family of relations (see the footnote on coherence in Section 4.1), a dimensional reassignment is complete only together with its re-elected family; what the UUS demonstrates is that the re-elected family can actually be written down, in full, and lived in — as it was, for electromagnetism in 1997 [12] and for gravitation by 2002 [22, App. C]. The five-dimensional electromagnetic framework of Section 6.2 is this point at full scale: a *rearrangement* of the SI's four dimensions into five, every formula remaining mathematically equivalent, with distinctions (field-strength ratio versus resistance) becoming visible that the four-dimensional analysis is structurally unable to draw [12].
 
 With the housekeeping established — the per-angle category named and populated, the arithmetic demonstrated, the analysis strengthened — we can turn to what the dimensions were added *for*.
-
----
-
-## New references introduced in Section 5
-
-[23] T. Suga, *UUS Glossary*, §12 "Earth-local units & constants" and §13, https://github.com/suchowan/a_converter/blob/master/doc/glossary.md — definitions of meridian (*m*<sub>E</sub>), solar (*s*<sub>E</sub>), and the *r*<sub>E</sub> identity. **Decide whether the glossary is cited directly or the definitions are re-stated in the paper's own notation with the glossary as supporting material; also confirm the exact definitional wording of *m*<sub>E</sub> (full meridian circle per Ω₁?) and the stated value of *r*<sub>E</sub>.**
-
-*(§5.2's historical claims — the arc-minute definition of the nautical mile, the meridian-quadrant definition of the metre — need standard citations; candidates: the BIPM SI Brochure historical annex; K. Alder, "The Measure of All Things" (2002) for the metre. To be selected per venue.)*
-
----
-
-## Notes for the author (not part of the paper)
-
-1. **§5.1 mechanics hand-off:** I deliberately hand torque/angular-momentum/moment-of-inertia to the *θ*<sub>N</sub> literature [6, 9] rather than presenting a UUS treatment, because the fetched UUS materials I have seen do not document one and I did not want to invent it. If the UUS documentation *does* fix conventions for these (e.g., torque in J/rad), tell me and §5.1 should instead say "the UUS adopts the following conventions…", which is stronger.
-2. **§5.2 *m*<sub>E</sub> definition and value:** I wrote "length of the Earth's meridian circle per full circular angle" with *m*<sub>E</sub>·rad ≈ 6.37 × 10⁶ m (≈ Earth radius). Please confirm against the glossary whether the definition uses the full meridian circumference (≈ 4.001 × 10⁷ m) over Ω₁, and adjust the stated numeric if the glossary fixes an exact conventional value.
-3. **§5.3 *r*<sub>E</sub> value:** GM/*c*₀² ≈ 4.43 mm for Earth by my calculation; flagged in text pending your check against the glossary entry.
-4. **§5.4 tone check:** "inverts the truth" and "sails through" are the most combative phrases in the draft so far. They are aimed at a *claim*, not at named authors, and I think the section earns them — but if you prefer the uniformly irenic register of the rest of the paper, substitute "understates the situation" and "passes the check undetected".
-5. **Ordering note:** §5.4's forward reference completes the Section 5 → Section 6 hinge promised in the outline; if you later reorder sections, this paragraph and §6.3 are the two places that encode the hinge.
-# Section 6 — Consequences: What the Added Dimensions Buy
 
 ---
 
@@ -343,28 +240,6 @@ In both cases the mechanism is the one announced in Section 2.3. Where a kind of
 And there is a gain here that outruns error-catching. A dimension is a semantic marker: formulas whose constants carry their dimensions do not merely balance — they say what they are about. The reinstated Ω₂ in the field equations announces that curvature is angular. Returning the displaced candidates to their places makes the equations legible, and not only checkable.
 ---
 
-## New references introduced in Section 6
-
-[17] T. Suga, "ふたつの時系(その１)" [Two systems of time (1)], blog post, 7 Aug 2012, https://suchowan.seesaa.net/article/201208article_7.html — **for the paper, consider replacing/supplementing with a formal source on TT/UT and tidal deceleration (e.g. an IERS or textbook reference: McCarthy & Seidelmann, *Time: From Earth Rotation to Atomic Physics*, 2nd edn, 2018 — to be verified).**
-
-[18] English translation of [12]: pp. 20–25 (Appendix B) of univunit-e.pdf [22]. Cited in place of the author's 2026 working digest.
-
-[19] Figure 1: https://raw.githubusercontent.com/suchowan/notes/refs/heads/master/pic/Figure_1.png (to be redrawn/relabeled in English for the paper).
-
-[20] Figure 2: https://raw.githubusercontent.com/suchowan/notes/refs/heads/master/pic/Figure_2.png — **the Ampère magnetic-shell attribution should be supported by a standard reference (e.g. a classical electromagnetism text; to be selected).**
-
----
-
-## Notes for the author (not part of the paper)
-
-1. **Fidelity check needed against Parity 1997.** The scanned PDF could not be machine-read in this session; §6.2 is written from the 2026 digest. Please verify in particular: (i) whether the original uses the symbol *Z*<sub>P</sub> and the name MKSΩ₂*Z*<sub>P</sub> as stated; (ii) the exact list of quantity pairs in Figure 1; (iii) whether "E/H ratio vs. resistance" is the formulation used in the original, or a later restatement.
-2. **Frequency-offset details in 6.1(b)** (pre-1972 practice, UT2) are from general horological history and should be checked against a citable source — possibly the same McCarthy & Seidelmann.
-3. §6.1(c) deliberately frames the *θ*<sub>N</sub> relationship as *independent convergence*, not priority in either direction; the 1997/2012 dates of [12][17] vs. 2021 of [6] can be mentioned in a footnote if desired, but I recommend restraint — the convergence argument is stronger than a priority claim and friendlier to the audience.
-4. Cross-references to "Section 5" assume the outline agreed earlier (per-angle bridging constants); if Section 5's internal numbering changes, adjust.
-# Section 7 — The UUS/Harmonic System as an Existence Proof
-
----
-
 ## 7. The criterion as architecture: the UUS/Harmonic System
 
 The preceding sections argued from the criterion to its consequences. This section exhibits a complete system of units whose taxonomy *is* the criterion, and whose several decades of documented existence [11, 22] answer the practical question — can one actually live this way? — in the affirmative.
@@ -393,24 +268,6 @@ To conclude the comparison in the register promised in Section 1: nothing in thi
 
 ---
 
-## New references
-
-[11] T. Suga, *UUS/Harmonic System, revised formal description* (revised.pdf, 2026), Table 4 "Units with special names and symbols", https://github.com/suchowan/a_converter/blob/master/doc/revised.pdf — **consolidate with [11] (same document? confirm) and settle citation formats for [11]/[22]/[24] as a group.**
-
----
-
-## Notes for the author
-
-1. **Impedance as natural unit:** Table 4 lists <sub>♮</sub>Ω (*Z*<sub>P</sub>) among the natural-unit base units. The paper has not argued impedance's uniqueness/salience, so I flag it as future work in the text rather than claiming a verdict. If you have a one-line salience argument (e.g., vacuum impedance via 1 sr/(*ε*₀*c*₀) as the unique electromagnetic focal point), it could be added — but note it must face the same uniqueness test (rival candidates? e.g. von Klitzing *R*<sub>k</sub>?), so caution is warranted.
-2. **Version history (2002 vs 2026):** per your note — duodecimal factor 1;0017 shift in length, temperature rescaled by 12⁻⁴, Ω<sub>n</sub> → <sub>♮</sub>Ω notation. I recommend citing only [24] (2026) as authoritative and omitting the history from the paper, or at most one footnote; the paper's argument nowhere depends on the numeric values.
-3. **Duodecimal aspects:** the table's 12<sup>*k*</sup> factors are visible but I kept them out of the prose entirely, per the layer-separation policy — the criterion argument is independent of radix, and mixing them would invite the wrong kind of reading. The one unavoidable trace is digit₁₂ in the ℧<sub>*k*</sub> row; consider whether to show only ℧₁ = bit there.
-4. **"several decades" / "maintained and refined over decades":** supported by 2002 [22] → 2026 [24]; adjust wording if you prefer a precise span.
-5. This completes all sections (1–8 + abstract). Remaining consolidation tasks for the next chat: merge the six fragments into one manuscript; write the §4 logarithm paragraph; resolve all **to-be-verified** flags; unify reference numbering; apply the tone pass (criticism aimed only at unnamed claims; neutral verbs for choices; bridging constants framed positively — fix the §8 "pays in bridging constants" sentence); add an AI-assistance disclosure to the acknowledgments; decide venue (Zenodo + academia.edu first, Metrologia later).
-6. **Spine of the §4 logarithm paragraph (agreed 2026-07-10):** the kind is defined by the functional equation log(*xy*) = log *x* + log *y*, whose solutions form a one-parameter family {c·ln} — the definition fixes the structure but no normalization, hence *baseless*. Taking a base IS choosing a unit: log *x* / log 2 = log₂ *x* is quantity/unit = numerical value; the subscript notation is unit notation in disguise. Therefore "you can divide by log 2 and get a number" is no evidence of dimensionlessness — it is the same fact as 5 m / 1 m = 5, exhibited with no physics anywhere; this purifies §2 (the criterion machinery uses only the ratio structure of kinds, not physical measurability) and makes neper = log e exactly parallel to rad = (2/π)sin⁻¹ 1. Candidates ln / log 2 / log 10 are mutually non-derivative (log₂ 10 irrational), matching §4.1's sharpening. UUS Table 4 implements all of this: the unit family of the logarithmic dimension is literally {log k} (neper = log e, bit = log 2, digit₁₂ = log 12). Include one preemptive sentence on the VIM definition of quantity (A.2 consciously extends 'quantity' to mathematical objects; harmless because only ratio structure is used). External refs: Mills–Taylor–Thor 2001, ISO 80000-13, univunit-e.pdf A.2.
-# Abstract and Section 8 — Conclusion
-
----
-
 ## 8. Conclusion
 
 The question this paper set out to answer is prior to the question the debate has been asking. Before one asks whether the plane angle *is* dimensional, one should ask what, in general, entitles a kind of quantity to a dimension. The answer proposed here is the uniqueness of its natural unit. A kind with a unique focal point — counting, and by inheritance the amount of substance — can shed its dimension without loss, and whether it carries one anyway is a free choice, exercised by the SI in the mole. A kind with two incommensurable focal points — the plane angle with rad and Ω₁, the solid angle with sr and Ω₂, the baseless logarithm with log e, log 2 and log 10 — cannot: the pure number fails to record which reference was used, and the failure is not hypothetical but documented, in the Hz incoherence and in the rationalized/unrationalized division of electromagnetic units.
@@ -421,8 +278,7 @@ What the comparison contributes to the standing debate is therefore not a verdic
 
 ---
 
-## Notes for the author
+## Acknowledgments
 
-1. The conclusion deliberately introduces no new claims; every sentence should be traceable to Sections 2–7. The "carried in their heads / carried in the formulas" antithesis is the one rhetorical flourish — cut if too much.
-2. "constructed independently and earlier" — the priority hint (1997/2012 vs. 2021) is at its mildest here, per the restraint agreed for §6.1(c). Strike "and earlier" for maximal irenicism.
-3. Abstract mentions Section 7 content (existence proof, complementarity) which is not yet drafted — keep consistent when Section 7 is written.
+The English draft of this paper was prepared with the assistance of a large language model (Claude, Anthropic). The criterion and its application are the author's; the model was used for drafting in English, for locating and cross-checking references, and for editorial review. All content, including every reference, has been verified by the author.
+

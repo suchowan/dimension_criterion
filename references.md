@@ -89,4 +89,4 @@
 ## Figures (moved out of References)
 
 Figure 1 — symmetric arrangement of electromagnetic quantities (English redraw of https://raw.githubusercontent.com/suchowan/notes/refs/heads/master/pic/Figure_1.png )
-Figure 2 — magnetic scalar potential as current × subtended solid angle (English redraw of Figure_2.png)
+Figure 2 — magnetic scalar potential as current × subtended solid angle (English redraw of https://raw.githubusercontent.com/suchowan/notes/refs/heads/master/pic/Figure_2.png )
