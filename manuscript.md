@@ -59,19 +59,6 @@ Two consequences of adopting (C2) for the angles are developed in the remainder 
 
 ---
 
-## References
-
-### Candidate additional references (not yet cited in Sections 1–2; likely needed in Sections 4–5)
-
-- K. R. Brownstein, "Angles—Let's treat them squarely", *Am. J. Phys.* **65** (1997) 605–614.
-- J. B. Brinsmade, "Plane and solid angles; their pedagogic value when introduced explicitly", *Am. J. Phys.* **4** (1936) 175–179.
-- W. E. Eder, "A viewpoint on the quantity 'plane angle'", *Metrologia* **18** (1982) 1–12. — **existence/bibliography to be verified**; the classic source of the radius-type-length (m/rad) treatment.
-- P. Quincey and K. Burrows, "The role of unit systems in expressing and testing the laws of nature", *Metrologia* **56** (2019) 065001.
-- P. R. Bunker, I. M. Mills and P. Jensen, "The Planck constant and its units", *J. Quant. Spectrosc. Radiat. Transf.* **237** (2019) 106594.
-# Sections 3–4 — Applying the Criterion
-
----
-
 ## 3. A case of uniqueness: amount of substance
 
 The amount of substance is a base quantity of the SI, and since the 2019 revision its unit, the mole, is defined by fixing the Avogadro number[^avogadro]: one mole contains exactly 6.022 140 76 × 10²³ elementary entities [1]. The kind of quantity is, by this very definition, proportional to a *count* of specified entities.
@@ -129,10 +116,6 @@ A remark on rigor is in order, because a critic is entitled to ask in what sense
 [^rectification]: Both the rectification of arc length and the small-angle identities are limit statements; the plane angle retains, via the circle's symmetry, one exact finite relation, *s* = *rθ*, which the solid angle has no counterpart of.
 ---
 
-# Section 4.5 — A Third Test Case: Logarithmic Quantities
-
----
-
 ### 4.5 A third test case: logarithmic quantities
 
 The criterion was formulated for kinds of quantity in general, and it would be suspicious if its only non-trivial applications were the two angular kinds. There is a third, and it is instructive precisely because no physics is involved at all.
@@ -169,7 +152,7 @@ And the category is not confined to length. The UUS defines a second Earth-local
 
 Indeed the two per-angle constants are the angular members of a wider family with a uniform job description: the Earth-local bridging constants of the system form a quartet — meridian *m*<sub>E</sub> (length per Earth angle), solar *s*<sub>E</sub> (physical time per calendar angle), gravity *g*<sub>E</sub> (Earth weight per mass), and a reference temperature *T*<sub>E</sub> (everyday Earth temperature against thermodynamic temperature) — each relating a locally salient quantity to a universal kind [11, Table 8]. What the critics present as an anomaly of length is one seat in a four-member institution. More generally, a bridging constant is any dimensioned constant whose office is to relate quantities of one kind to those of another; the per-angle constants and the Earth-local quartet are its most familiar members, and Section 6.2 will meet two universal ones.
 
-### 5.3 A demonstration that the arithmetic closes**
+### 5.3 A demonstration that the arithmetic closes
 
 Skepticism about dimensioned angles has always been less about principle than about practice: will real formulas, mixing several branches of physics, still balance? A compact test case is the relation between a planet's gravitational radius and its surface gravity. In the UUS, a rotating planet *X* is characterized by a small set of planet-local constants — its meridian *m*<sub>*X*</sub>, its solar *s*<sub>*X*</sub>, its gravity *g*<sub>*X*</sub> (together with a reference temperature *T*<sub>*X*</sub>) — and these are tied together by the identity
 
@@ -197,7 +180,7 @@ Criterion (C2) directs that the plane angle and the solid angle be given indepen
 
 Astronomy has long operated with two distinct notions of time. One is the uniform time in which the laws of physics are expressed — historically Ephemeris Time, today Terrestrial Time (TT). The other is the time that tracks the rotation angle of the Earth — Universal Time (UT), the time of sunrises, sunsets and civil calendars [29]. The two are commonly treated as two *scales* of one and the same kind of quantity, to be reconciled by ever-finer calibration (leap seconds being the visible symptom of the reconciliation).
 
-The reconciliation, however, is unstable in principle, not merely in practice. Tidal friction secularly decelerates the Earth's rotation, so that no synchronization of the two times, however precisely established, survives on the scale of millennia; and the historical eclipse record shows the deceleration itself to be irregular — significant non-tidal fluctuations run against the dominant tidal trend — so that the divergence is not merely large but imperfectly predictable [30]. The difference between TT and UT is not an error to be calibrated away; it is a difference in kind. The subsequent institutional history reads as a slow ratification of the point. The mid-century attempt to make rotation time more uniform — UT2 [31], which smoothed the seasonal terms out of UT1 — was abandoned with the redefinition of broadcast time in 1972. The structure of that decision is itself the separation of roles: the recommendation calls at once for the elimination of all frequency offsets and for conformity with the SI second, and, in the same breath, acknowledges "the continuing need of many users for Universal Time" [32] — a uniform time kept uniform, and a rotation time kept separately, in place of a single scale made to serve both. And the angular character of the survivor is now official: since the IAU 2000 resolutions, UT1 is defined as a conventional linear function of the Earth Rotation Angle [33] — the conventional coefficient being a bridging quantity of precisely the *s*<sub>E</sub> type. That calendar time is a coordinated rotation angle is not a reading imposed from outside; it is where the definitions themselves arrived.
+The reconciliation, however, is unstable in principle, not merely in practice. Tidal friction secularly decelerates the Earth's rotation [30, §2.4], so that no synchronization of the two times, however precisely established, survives on the scale of millennia; and the historical eclipse record shows the deceleration to be irregular as well as secular — the mean observed increase in the length of the day since −500, +1.7 ms per century, falls short of the +2.3 ms per century that tidal friction alone would give, and the observed curve wanders about the trend rather than tracking it [30, Fig. 14.7]. The difference between TT and UT is not an error to be calibrated away; it is a difference in kind. The subsequent institutional history reads as a slow ratification of the point. The mid-century attempt to make rotation time more uniform — UT2 [31], which smoothed the seasonal terms out of UT1 — was abandoned with the redefinition of broadcast time in 1972. The structure of that decision is itself the separation of roles: the recommendation calls at once for the elimination of all frequency offsets and for conformity with the SI second, and, in the same breath, acknowledges "the continuing need of many users for Universal Time" [32] — a uniform time kept uniform, and a rotation time kept separately, in place of a single scale made to serve both. And the angular character of the survivor is now official: since the IAU 2000 resolutions, UT1 is defined as a conventional linear function of the Earth Rotation Angle [33] — the conventional coefficient being a bridging quantity of precisely the *s*<sub>E</sub> type. That calendar time is a coordinated rotation angle is not a reading imposed from outside; it is where the definitions themselves arrived.
 
 The UUS/Harmonic System expresses this difference dimensionally. *Calendrical time* is assigned the dimension of plane angle: one mean solar day is one full turn, Ω₁, of the Earth relative to the mean Sun[^coordinate]. *Physical time* retains the dimension of time. The two kinds are bridged by a dimensioned constant of the system, **solar** (*s*<sub>E</sub>), defined as the rotation period per full circular angle, with dimension [time/angle] [11]. Physical duration = calendrical duration × *s*<sub>E</sub>, in exact analogy with arc length = angle × radius-of-curvature-type constant (Section 5).
 

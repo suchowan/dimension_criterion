@@ -5,7 +5,7 @@
 - [x] フラグ書式の統一(`**[...]**`)— 本文の未解決フラグは Notes 内 1 件のみ
 - [x] 脚注の `[^name]` 化(7 件: avogadro, coherent, coordinate, curvature, bit, rectification, salience)
 - [x] `[24]` → `[11]` 置換(revised.pdf の統合)/ `[18]` → `[12]` 統合
-- [ ] `[22, 24]`(§7 末尾)→ `[22]`、`[11, 22, 24]` → `[11, 22]` の残り置換
+- [x] `[22, 24]`(§7 末尾)→ `[22]`、`[11, 22, 24]` → `[11, 22]` の残り置換
 
 ## A. 外部文献 — 書誌確認(存在・著者・巻号頁)
 - [x] [7] Leonard — 表題確定、*Metrologia* **59**(3) 038001、DOI 確定 ※論文番号方式のため頁なし
@@ -57,25 +57,33 @@
 - [-] (論文外・glossary 宿題) 中黒 "・" 規則の明文化(#5/#10、下付き同層の細則込み)
 
 ## D. 編集・推敲(Markdown 上で完了させる)
-- [ ] トーン一括: "inverts the truth" / "sails through"(§5.4)/ "obliged to erase" / "embarrasses its maker" / "dread" の残置可否
-- [ ] 被引用者の目での通読: Quincey / Mohr & Phillips / Leonard / Kalinin / Kritchevsky / 黒木 / Eder
-- [ ] 離陸単調性チェック: 各節冒頭一文の通し読み
+- [x] トーン一括: "inverts the truth" / "sails through"(§5.4)/ "obliged to erase" / "embarrasses its maker" / "dread" の残置可否
+- [x] 被引用者の目での通読: Quincey / Mohr & Phillips / Leonard / Kalinin / Kritchevsky / 黒木 / Eder
+- [ ] 離陸単調性チェック: 各節冒頭一文の通し読み - 日本語訳の通読で代替
 - [ ] §2.2 documented/observable の音読チェック(§4.2 と近接時は "a matter of record" に)
-- [ ] 脚注の番号固定方針(v1.0 以後は末尾追加のみ)/ アンカー級 salience・bit・coherent の自立性確認
-- [ ] §5.2 bridging 上位概念の一文が入っているか確認 — §6.2 "two bridging constants" との整合
-- [ ] [21] の扱い: ブログ維持 / [34] 併記 / [34] へ差し替え
-- [ ] 参照番号の最終整理(本文出現順への並べ替えは最終段階で機械的に)
-- [ ] Notes for the author 節・フラグメント見出し・作業注記の全削除(最終段)
+- [x] 脚注の番号固定方針(v1.0 以後は末尾追加のみ)/ アンカー級 salience・bit・coherent の自立性確認
+- [x] §5.2 bridging 上位概念の一文が入っているか確認 — §6.2 "two bridging constants" との整合
+- [x] [21] の扱い: ブログ維持 / [34] 併記 / [34] へ差し替え -> 併記
+- [x] 参照番号の最終整理(本文出現順への並べ替えは最終段階で機械的に)
+- [x] Notes for the author 節・フラグメント見出し・作業注記の全削除(最終段)
 - [ ] 最終 grep 掃引: `**[` ゼロ確認 / "N_A" 全件 / 無理性・超越性の主張箇所
-- [ ] references.md 冒頭の "Pre-edit operations" 注記の削除(実行済みのため)
+- [x] references.md 冒頭の "Pre-edit operations" 注記の削除(実行済みのため)
 
 ## E. 図版
 - [ ] Figure 1 / Figure 2 の英語版作図+キャプション
 
 ## F. 出版準備
 - [x] private GitHub リポジトリ作成(dimension_criterion)+ 初回 push
-- [ ] 謝辞: AI 支援の開示一文(英語草稿支援・全内容は著者検証)
+- [x] 謝辞: AI 支援の開示一文(英語草稿支援・全内容は著者検証)
 - [ ] 要旨の短縮版 trim 指針の確定(150–200 語版で落とす文の指定)
 - [ ] 査読短縮版の除去候補ブロックの自己完結性メモ(§4.5、§6.1(c) 配当部、§6.2 重力拡張、§7 表の一部)
 - [ ] 公開リポジトリ(論文単位・Concept DOI + Version DOI)/ Zenodo 連携 / verification log 同梱の要否
 - [ ] 公開後アクション: Quincey らへの収斂通知メール(Kritchevsky 型二通目)/ Academia.edu discussion 招待 / Universal Times への保留解除
+
+## G. Candidate additional references (not yet cited in Sections 1–2; likely needed in Sections 4–5)
+
+- K. R. Brownstein, "Angles—Let's treat them squarely", *Am. J. Phys.* **65** (1997) 605–614.
+- J. B. Brinsmade, "Plane and solid angles; their pedagogic value when introduced explicitly", *Am. J. Phys.* **4** (1936) 175–179.
+- P. Quincey and K. Burrows, "The role of unit systems in expressing and testing the laws of nature", *Metrologia* **56** (2019) 065001.
+- P. R. Bunker, I. M. Mills and P. Jensen, "The Planck constant and its units", *J. Quant. Spectrosc. Radiat. Transf.* **237** (2019) 106594.
+

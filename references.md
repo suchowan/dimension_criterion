@@ -64,7 +64,7 @@
 
 [29] T. Suga, "ふたつの時系(その１)" [Two systems of time (1)], blog post, 7 Aug 2012, https://suchowan.seesaa.net/article/201208article_7.html
 
-[30] F. R. Stephenson, *Historical Eclipses and Earth's Rotation* (Cambridge: Cambridge University Press, 1997), ISBN 0-521-46194-4 — the historical-eclipse determination of the secular and irregular changes in the Earth's rate of rotation. **[pin chapter/pages for the tidal and non-tidal deceleration result]**
+[30] F. R. Stephenson, *Historical Eclipses and Earth's Rotation* (Cambridge: Cambridge University Press, 1997), ISBN 0-521-46194-4 — §2.4, pp. 37–38 (tidal deceleration of the Earth's spin); Fig. 14.7, p. 514 (observed change in the length of the day from −500 to +1990, against the tidal-friction-only trend).
 
 [31] Bureau International de l'Heure, "On the Determination of Universal Time by the Time Services according to the Decisions of the General Assembly of the I.A.U. in Dublin (1955)", *Bulletin Horaire*, Series 4, No. 4 (July–August 1955) — defines UT2 = UT1 + ΔTS and directs time services to transmit UT2 from 1 January 1956.
 
@@ -86,3 +86,4 @@
 
 Figure 1 — symmetric arrangement of electromagnetic quantities (English redraw of https://raw.githubusercontent.com/suchowan/notes/refs/heads/master/pic/Figure_1.png )
 Figure 2 — magnetic scalar potential as current × subtended solid angle (English redraw of https://raw.githubusercontent.com/suchowan/notes/refs/heads/master/pic/Figure_2.png )
+
