@@ -34,13 +34,13 @@
 
 [14] T. C. Schelling, *The Strategy of Conflict* (Cambridge, MA: Harvard University Press, 1960), ch. 3.
 
-[15] G. Kuroki, remark on X (Twitter), 14 Jan 2017, https://x.com/genkuroki/status/820174724021899265 (accessed 2026-07). **[journal version: decide citation style for social media]**
+[15] G. Kuroki, remark on X (Twitter), 14 Jan 2017, https://x.com/genkuroki/status/820174724021899265 (accessed 2026-07).
 
 [16] P. Quincey, "Comment on 'Dimensionless units in the SI'", arXiv:1505.07230 [physics.data-an] (2015). DOI: 10.48550/arXiv.1505.07230. — preprint.
 
 [17] A. Y. Aikhenvald, *Classifiers: A Typology of Noun Categorization Devices* (Oxford: Oxford University Press, 2000).
 
-[18] T. Suga, "物質量の単位 mol の細くない話" [On the unit mole], blog post, 6 Mar 2026, https://suchowan.seesaa.net/article/202603article_6.html **[journal version: keep, or absorb and substitute a classifier-linguistics reference]**
+[18] T. Suga, "物質量の単位 mol の細くない話" [On the unit mole], blog post, 6 Mar 2026, https://suchowan.seesaa.net/article/202603article_6.html 
 
 [19] T. Suga, *Proposal for the Universal Unit System* (univunit-e.pdf), 2002; file last modified 2002-02-10; earliest third-party archive 4 Nov 2015: https://web.archive.org/web/20151104111649/https://www.asahi-net.or.jp/~dd6t-sg/univunit-e/univunit-e.pdf ; current copy: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/univunit-e.pdf — cited for §3.2.2, Appendix A.2, A.3, Appendix B.
 
@@ -77,8 +77,6 @@
 [35] B. P. Leonard, "Proposal for the dimensionally consistent treatment of angle and solid angle by the International System of Units (SI)", *Metrologia* **58**(5) (2021) 052001.
 
 [36] 高橋秀俊 [H. Takahashi], 『電磁気学』 [*Electromagnetism*] (東京: 裳華房 [Tokyo: Shokabo], 1959), pp. 185–187 (derivation of the magnetic scalar potential via solid angle).
-
-*(Reserved, pending decision: M. Hartl, "The Tau Manifesto" — currently deliberately uncited.)*
 
 ---
 
