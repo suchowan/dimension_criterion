@@ -40,7 +40,7 @@
 
 [17] A. Y. Aikhenvald, *Classifiers: A Typology of Noun Categorization Devices* (Oxford: Oxford University Press, 2000).
 
-[18] T. Suga, "物質量の単位 mol の細くない話" [On the unit mole], blog post, 6 Mar 2026, https://suchowan.seesaa.net/article/202603article_6.html 
+[18] T. Suga, "物質量の単位 mol の細くない話" [On the unit mole], blog post, 6 Mar 2026, https://suchowan.seesaa.net/article/202603article_6.html
 
 [19] T. Suga, *Proposal for the Universal Unit System* (univunit-e.pdf), 2002; file last modified 2002-02-10; earliest third-party archive 4 Nov 2015: https://web.archive.org/web/20151104111649/https://www.asahi-net.or.jp/~dd6t-sg/univunit-e/univunit-e.pdf ; current copy: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/univunit-e.pdf — cited for §3.2.2, Appendix A.2, A.3, Appendix B.
 
@@ -84,4 +84,3 @@
 
 Figure 1 — symmetric arrangement of electromagnetic quantities (English redraw of https://raw.githubusercontent.com/suchowan/notes/refs/heads/master/pic/Figure_1.png )
 Figure 2 — magnetic scalar potential as current × subtended solid angle (English redraw of https://raw.githubusercontent.com/suchowan/notes/refs/heads/master/pic/Figure_2.png )
-

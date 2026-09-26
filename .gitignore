@@ -10,3 +10,6 @@ desktop.ini
 *.aux
 *.log
 *.out
+
+# Build output
+src/build/

@@ -1,5 +1,17 @@
 # 量はいつ固有の次元を持つべきか
+
 ## 設計基準としての自然単位の一意性
+
+須賀 隆 (Takashi Suga) — 独立研究者、日本
+E-mail: suchowan@box.email.ne.jp
+2026年9月26日
+
+> 本稿は英語版 *When Should a Quantity Have Its Own Dimension? — Uniqueness of
+> Natural Units as a Design Criterion* (v1.0) の日本語版である。相違がある場合は
+> 英語版を正本とする。→ [manuscript.pdf](manuscript.pdf)
+
+---
+
 
 ## 要旨
 
@@ -131,7 +143,7 @@ SI における平面角の次元的地位をめぐる長年の論争は、角�
 
 そして角度の場合と同様、この評決は歴史の記録によって反駁されるどころか裏づけられる。Shannon は情報理論の創始論文の冒頭で、対数の底の選択を情報の単位の選択と同定し、ビット、十進桁、自然単位を一息に挙げた [21]——本節が形式化するその同定が、この分野の誕生の場に居合わせていたのである。計量学の側はといえば、対数の単位を実務のうえで数 1 へと畳み込むことにこれまで一度も成功していない。ネーパ、ベル、デシベルは名を持つ単位として存続し、その定義と相互関係には一篇の論文を要した [22]。情報の単位は複数のものとして標準化されている(シャノン、ハートレー、自然情報単位)[23]——ひとつの種類に三つの単位が併存しているのは、そのあいだの選択がついぞ強制されなかったからである。ネーパとベルは、その定義式が因子 2 だけ異なることを根拠に、二つの異なる量の種類——前者は振幅比に、後者は電力型の比に——に属するとされることがある [24]。本稿の説明では、この因子は対数という種類そのものにではなく対数の引数に属する。変わるのはどの比を取っているかであって、どの種類の量が結果するかではない。UUS はこれに対応して、そうした表現を二項量(binary)——基点に適用された尺度間隔——として扱い、基準の選択が単位とともに記録されるようにしている [11, App. A.1, item (8)]。そして 7 節で述べる体系において、UUS は評決そのものを実装している。対数の次元を持ち、ネーパを作業単位として選出し、選から漏れた候補を有次元定数 ℧<sub>*k*</sub> = log 2<sup>*k*</sup> として——そのなかにビットを含めて——収めているのである。
 
-証拠としての形ゆえに記録に値する事実がもうひとつある。2026 年——[19] の二十四年後——に、同じ対象が独立に、しかも「baseless logarithm(底なし対数)」というまったく同じ名のもとに、Kritchevsky のエッセイ [25] において形式化された。そのエッセイは、底の変更は単位の変更であるという同じ描像を、一般の読者に向けて展開している。この収斂は、6.1(c) 節で述べる UUS の Ω₁ と SI 側の提案の *θ*<sub>N</sub> とのあいだの収斂と同じ構造を持つ。すなわち、異なる関心から出発し、互いを知らない二者が、同じ構成に到達するという構造である。基準は論証によって支持されうる。だが、繰り返し再発見される構成は、それ自体が自らを論証している。
+証拠としての形ゆえに記録に値する事実がもうひとつある。2026 年——[19] の二十四年後——に、同じ対象が独立に、しかも「baseless logarithm(底なし対数)」というまったく同じ名のもとに、Kritchevsky のエッセイ [25] において形式化された。そのエッセイは、底の変更は単位の変更であるという同じ描像を、一般の読者に向けて展開している。この収斂は、6.1(3) 節で述べる UUS の Ω₁ と SI 側の提案の *θ*<sub>N</sub> とのあいだの収斂と同じ構造を持つ。すなわち、異なる関心から出発し、互いを知らない二者が、同じ構成に到達するという構造である。基準は論証によって支持されうる。だが、繰り返し再発見される構成は、それ自体が自らを論証している。
 
 ---
 
@@ -189,11 +201,11 @@ UUS/ハーモニック・システムはこの違いを次元的に表現する�
 
 帰結は三つある。
 
-**(a) 可搬性。** 暦の一日が角度であるがゆえに、「平均太陽日一日 = 一回転」は地球でも、火星でも、いかなる自転する天体でも同一に成り立つ。変わるのは局所の橋渡し定数 s だけである [29]。暦の構造は惑星固有の物理から切り離される。
+**(1) 可搬性。** 暦の一日が角度であるがゆえに、「平均太陽日一日 = 一回転」は地球でも、火星でも、いかなる自転する天体でも同一に成り立つ。変わるのは局所の橋渡し定数 s だけである [29]。暦の構造は惑星固有の物理から切り離される。
 
-**(b) 周波数オフセット方式の時刻管理は次元的に自然である。** 1972 年以前、放送される時刻信号は、搬送波を秒の原子的定義から意図的に、かつ公示された量だけずらした周波数で運用することによって、UT2 に近く保たれていた。暦時間と物理時間が次元を共有する体系では、そのようなオフセットは時計を「間違った」速さで走らせることとしか読めず、微妙に異なる二つの時間のどちらが*本当の*時間なのかという、答えようのない問いを招く。この方式は 1972 年に放棄されたが(CCIR 勧告 460 [32]。その第一の考慮事項は「公称値からのいっさいのオフセットを廃止することが望ましいこと」である)、それはまさにこの居心地の悪さのただなかでのことであった。本稿の体系では、この問いは生じない。時計の速さ——暦時間に関する物理時間の微分——は次元 [時間/角度] を持つ量であり、数値としては *s*<sub>E</sub> の現在値である。これを調整することは誤りの訂正ではなく、自然そのものが緩やかに変えつつある換算定数の保守である。そしてどちらの時間も「間違って」はいない。同じ種類の時間ではないからである。歴史的に実践された方式は、こうして清潔な次元的基礎を与えられる——そしてそれを終わらせた居心地の悪さは、方式の産物ではなく、次元を共有していたことの産物として説明される。
+**(2) 周波数オフセット方式の時刻管理は次元的に自然である。** 1972 年以前、放送される時刻信号は、搬送波を秒の原子的定義から意図的に、かつ公示された量だけずらした周波数で運用することによって、UT2 に近く保たれていた。暦時間と物理時間が次元を共有する体系では、そのようなオフセットは時計を「間違った」速さで走らせることとしか読めず、微妙に異なる二つの時間のどちらが*本当の*時間なのかという、答えようのない問いを招く。この方式は 1972 年に放棄されたが(CCIR 勧告 460 [32]。その第一の考慮事項は「公称値からのいっさいのオフセットを廃止することが望ましいこと」である)、それはまさにこの居心地の悪さのただなかでのことであった。本稿の体系では、この問いは生じない。時計の速さ——暦時間に関する物理時間の微分——は次元 [時間/角度] を持つ量であり、数値としては *s*<sub>E</sub> の現在値である。これを調整することは誤りの訂正ではなく、自然そのものが緩やかに変えつつある換算定数の保守である。そしてどちらの時間も「間違って」はいない。同じ種類の時間ではないからである。歴史的に実践された方式は、こうして清潔な次元的基礎を与えられる——そしてそれを終わらせた居心地の悪さは、方式の産物ではなく、次元を共有していたことの産物として説明される。
 
-**(c) *θ*<sub>N</sub> 提案との関係——収斂、そして分岐。** Quincey の提案は有次元の角度定数 *θ*<sub>N</sub> を復活させ、それに基づけば角周波数と周波数の関係は *ω* = 2π*θ*<sub>N</sub>·*ν* と書かれる。二つの量は異なる種類へ、*ω* [角度/時間] と *ν* [1/時間] へと分離する [6]。UUS は同じよく知られた混同を、相補的な手によって解消する。*ν* と *ω* は次元 [角度/時間] を持つ一つの種類の量であり、二つの単位——単位時間あたりのサイクルと、単位時間あたりのラジアン——で表現されている。したがって 2π は単位換算であって、度とラジアンのあいだの 180/π とまったく同じ地位にある [19, §A.3, p. 18]。二つの扱いは区別の所在を異なる場所に置く——二つの種類か、二つの単位を持つ一つの種類か——が、基準にとって本質的な点においては一致している。SI が裸の 2π として書くものは、作業着をまとった全円周角 Ω₁ なのである。そして、独立した二つの研究の流れが、細部を異なる仕方で解決しながらこの点に収斂しているということは、その底にある構造が実在することの、むしろより強い証拠である。
+**(3) *θ*<sub>N</sub> 提案との関係——収斂、そして分岐。** Quincey の提案は有次元の角度定数 *θ*<sub>N</sub> を復活させ、それに基づけば角周波数と周波数の関係は *ω* = 2π*θ*<sub>N</sub>·*ν* と書かれる。二つの量は異なる種類へ、*ω* [角度/時間] と *ν* [1/時間] へと分離する [6]。UUS は同じよく知られた混同を、相補的な手によって解消する。*ν* と *ω* は次元 [角度/時間] を持つ一つの種類の量であり、二つの単位——単位時間あたりのサイクルと、単位時間あたりのラジアン——で表現されている。したがって 2π は単位換算であって、度とラジアンのあいだの 180/π とまったく同じ地位にある [19, §A.3, p. 18]。二つの扱いは区別の所在を異なる場所に置く——二つの種類か、二つの単位を持つ一つの種類か——が、基準にとって本質的な点においては一致している。SI が裸の 2π として書くものは、作業着をまとった全円周角 Ω₁ なのである。そして、独立した二つの研究の流れが、細部を異なる仕方で解決しながらこの点に収斂しているということは、その底にある構造が実在することの、むしろより強い証拠である。
 
 では二つの読みのあいだに事実の問題はあるだろうか。基準はひとつの答えへと押しやる。任意の「s⁻¹」に対して、あらゆる単位が答えねばならない問いを発してみよう——毎秒、一つの*何*か。周期的現象においては、その個体はサイクルであり、サイクルは裸の可算物ではない。位相の閉包、Ω₁ 一つぶんによって構成されており、したがってサイクルを数えることは蓄積された位相を測ることであって、その率は次元 [角度/時間] を持つ。確率過程においては、その個体は事象——一つの要素——であり、UUS はそう明言している。放射能、すなわち SI のベクレルは、単位時間あたりの <sub>♮</sub>mol として表現され [27]、<sub>♮</sub>mol(3 節の自然モル *N*<sub>A</sub>⁻¹)が単一の事象の単位として働く。指数的な成長あるいは減衰においては、「速度定数」は対数の傾きであり、次元 [対数量/時間] を持つ——減衰の実務におけるネーパ毎秒である [34]。
 
@@ -211,11 +223,15 @@ SI は単一の次元 s⁻¹ の上に、ちょうどこの数だけの特別な
 
 そこに現れるものは——原研究においては予期せぬことに——主要な電磁気量のきわめて対称的な配置である。場の強さ (*E*, *H*)、ポテンシャル (*V*, *V*<sub>m</sub>)、束 (*Φ*, *Ψ*)、密度 (*B*, *D*, *ρ*, *j*) が、Ω₂ と *Z*<sub>P</sub> を介して結ばれた電気/磁気の平行な位置に収まる [12](図 1)。四次元の体系が行わざるをえない次元上の同一視のうち二つが分離する。電場と磁場の強さの比と、電気抵抗とは、SI では単位 Ω を共有しているが、立体角の次元だけ異なる別々の次元を獲得する。
 
-![**図 1.** 電磁気量の対称な配置。](../fig/Figure_1.png)
+<img src="fig/Figure_1.png" width="480">
+
+***図 1.** 電磁気量の対称な配置。*
 
 この対称性には幾何学的な錨があり、それが直観を供給する。電流ループの磁気スカラーポテンシャルは、与えられた視点において、電流とそのループが張る立体角との積である——アンペールの磁気殻の理論にまで遡る古典的な結果であり、教科書が磁気スカラーポテンシャルの多価性を説明するのに長らく用いてきたものである(視点が回路を一周すると、張られる立体角は Ω₂ だけ跳ぶ)[36]。次元による扱いがこの教科書的洞察に付け加えるのは、恒常性である。図のなかに生きている説明は、図が紙面にあるあいだしか利用できない。次元 [電流 × 立体角] のうちに記録されれば、それはあらゆる公式において任に就いている。立体角が無次元である体系では、この公式は次元的に沈黙している。ポテンシャルは裸の電流に見え、電位との対称性は見えない。Ω₂ が有次元であれば、この古典的な公式は次元的に透明になる——磁気ポテンシャル*とは*電流 × 立体角である——そして配置における *V* と *V*<sub>m</sub> の平行な位置取りは、規定されるのではなく説明される [12](図 2)。ここで電磁気学について新しいことは何も主張されていない。教科書的な結果が、その適切な次元的分解能において読まれているのである。
 
-![**図 2.** 電流 × 張られる立体角としての磁気スカラーポテンシャル。](../fig/Figure_2.png)
+<img src="fig/Figure_2.png" width="480">
+
+***図 2.** 電流 × 張られる立体角としての磁気スカラーポテンシャル。*
 
 この勘定は電磁気学に限られない。UUS の提示において、電磁場のエネルギー密度は *u* = (1/2Ω₂)(*E*·*D* + *H*·*B*) と書かれ [12; 19, App. B, p. 22]、アインシュタイン方程式は *T*<sub>*ik*</sub>/*F*<sub>P</sub> = (1/2Ω₂)(*R*<sub>*ik*</sub> − ½*R* *g*<sub>*ik*</sub> + *Λ g*<sub>*ik*</sub>) と書かれる [11, App. C, eq. (9)]。ここで *F*<sub>P</sub> = *c*₀⁴/G はプランク力である——二つの基本的相互作用の双方に、まったく同じひとつの係数が現れ、慣用形の 8π(ガウス単位系のエネルギー密度における 1/8π、重力における 8π*G*)がひとつの定数であることを明かしている。これらの公式の次元的な読み——[11] においては暗黙であり、[27, §8] において述べられている——が示すように、二つの橋渡し定数が労働を分担しており、しかもそれぞれが自らの次元によってそうしている。*F*<sub>P</sub> は力であることによって、物質側を——応力エネルギーテンソルはエネルギー密度であり、すなわち面積あたりの力である——純粋に幾何学的な [長さ⁻²] へと変換する。一方 Ω₂ は曲率側を——その本来の次元は [立体角/長さ²] である(その操作的な意味がホロノミーである量、すなわち囲まれた面積あたりに蓄積された角度[^curvature]であることを思えば、ふさわしい次元である)——その同じ [長さ⁻²] へと変換する。宇宙定数はこうして、裸の逆面積ではなく曲率として提示されることになる。
 
@@ -274,3 +290,80 @@ UUS の単位表 [11, Table 4] は、基本単位を二つの範疇に整理し�
 ## 謝辞
 
 本稿の英語草稿は、大規模言語モデル(Claude, Anthropic)の助力を得て作成された。基準およびその適用は著者のものである。モデルは、英語による起草、参照文献の探索と相互照合、および編集上の検討に用いた。参照文献のすべてを含め、内容はすべて著者が検証した。
+
+---
+
+## 参照文献
+
+[1] Bureau International des Poids et Mesures, *Le Système International d'Unités (SI)*, 9th edn, Version 4.01 (Sèvres: BIPM, June 2026).
+
+[2] P. J. Mohr and W. D. Phillips, "Dimensionless units in the SI", *Metrologia* **52** (2015) 40–47.
+
+[3] I. M. Mills, "On the units radian and cycle for the quantity plane angle", *Metrologia* **53** (2016) 991–997.
+
+[4] P. Quincey, P. J. Mohr and W. D. Phillips, "Angles are inherently neither length ratios nor dimensionless", *Metrologia* **56** (2019) 043001.
+
+[5] M. I. Kalinin, "On the status of plane and solid angles in the International System of Units (SI)", *Metrologia* **56** (2019) 065009.
+
+[6] P. Quincey, "Angles in the SI: a detailed proposal for solving the problem", *Metrologia* **58** (2021) 053002.
+
+[7] B. P. Leonard, "Comment on 'Angles in the SI: a detailed proposal for solving the problem'", *Metrologia* **59**(3) (2022) 038001. DOI: 10.1088/1681-7575/ac5433
+
+[8] P. Křen, "Comment on 'Angles in the SI: treating the radian as an independent, unhidden unit does not require the redefinition of the term "frequency" or the unit hertz'", arXiv:2011.08666 [physics.gen-ph] (2020). DOI: 10.48550/arXiv.2011.08666 — プレプリント。2016 年の CCU から CCL への諮問と、報告された CCL の総意の典拠。
+
+[9] P. J. Mohr, E. L. Shirley, W. D. Phillips and M. Trott, "On the dimension of angles and their units", *Metrologia* **59** (2022) 053001. DOI: 10.1088/1681-7575/ac7bc2
+
+[10] M. I. Kalinin, "On the dual nature of a plane angle", arXiv:2605.06586 [physics.class-ph] (2026). DOI: 10.48550/arXiv.2605.06586
+
+[11] T. Suga, *Proposal for the Universal Unit System* (revised.pdf, 2026), https://github.com/suchowan/a_converter/blob/master/doc/revised.pdf — 表と付録によって全篇で引用:Table 4(単位)、Table 8(地球局所拡張)、Appendix C eqs. (8)–(9)。
+
+[12] 須賀隆 [T. Suga], 「電磁気量の次元の一整理法」, 『パリティ』 **12**(4) (1997) 63–65. 英訳は [19] の Appendix B, pp. 20–25。
+
+[13] JCGM 200:2012, *International Vocabulary of Metrology (VIM)*, 3rd edn — 定義 1.1(量)および 1.9(測定単位)。
+
+[14] T. C. Schelling, *The Strategy of Conflict* (Cambridge, MA: Harvard University Press, 1960), ch. 3.
+
+[15] 黒木玄 [G. Kuroki], X(Twitter)上の発言, 2017 年 1 月 14 日, https://x.com/genkuroki/status/820174724021899265 (2026-07 閲覧)。
+
+[16] P. Quincey, "Comment on 'Dimensionless units in the SI'", arXiv:1505.07230 [physics.data-an] (2015). DOI: 10.48550/arXiv.1505.07230 — プレプリント。
+
+[17] A. Y. Aikhenvald, *Classifiers: A Typology of Noun Categorization Devices* (Oxford: Oxford University Press, 2000).
+
+[18] 須賀隆 [T. Suga], 「物質量の単位 mol の細くない話」, ブログ記事, 2026 年 3 月 6 日, https://suchowan.seesaa.net/article/202603article_6.html
+
+[19] T. Suga, *Proposal for the Universal Unit System* (univunit-e.pdf), 2002;ファイル最終更新 2002-02-10;第三者による最古のアーカイブは 2015 年 11 月 4 日: https://web.archive.org/web/20151104111649/https://www.asahi-net.or.jp/~dd6t-sg/univunit-e/univunit-e.pdf ;現行の複製: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/univunit-e.pdf — §3.2.2、Appendix A.2、A.3、Appendix B のために引用。
+
+[20] 高田誠二 [S. Takada], 『単位と単位系』 (東京: 共立出版, 1980), pp. 45–50(コヒレンスの相対性についての分析の典拠。脚注 (6) で [19, App. A.3] とともに引用)。
+
+[21] C. E. Shannon, "A Mathematical Theory of Communication", *Bell System Technical Journal* **27** (1948) 379–423, 623–656;対数の底を情報の単位と同定している箇所は pp. 379–380。
+
+[22] I. M. Mills, B. N. Taylor and A. J. Thor, "Definitions of the units radian, neper, bel and decibel", *Metrologia* **38** (2001) 353–361. DOI: 10.1088/0026-1394/38/4/8
+
+[23] ISO 80000-13:2025, *Quantities and units — Part 13: Information science and technology*, 2nd edn(初版 2008)— 単位 shannon (Sh)、hartley (Hart)、自然情報単位 (nat)。
+
+[24] I. M. Mills and C. Morfey, "On logarithmic ratio quantities and their units", *Metrologia* **42**(4) (2005) 246–252. DOI: 10.1088/0026-1394/42/4/008
+
+[25] A. Kritchevsky, "Everything Is Logarithms", ブログ論説, 2026 年 5 月 25 日, https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html
+
+[26] W. E. Eder, "A viewpoint on the quantity 'plane angle'", *Metrologia* **18** (1982) 1–12. DOI: 10.1088/0026-1394/18/1/002.(正誤表:*Metrologia* **18** (1982) 171。)
+
+[27] T. Suga, *UUS Glossary*, §§1, 8, 9, 12–13, https://github.com/suchowan/a_converter/blob/master/doc/glossary.md — <sub>♮</sub>mol(単位時間あたりの <sub>♮</sub>mol としての放射能を含む)、Ω₂(エネルギー密度と場の方程式におけるその役割を含む)、メリディアン(*m*<sub>E</sub>、整長半径を含む)、ソーラー(*s*<sub>E</sub>)、および *r*<sub>E</sub> の恒等式の定義。
+
+[28] K. Alder, *The Measure of All Things: The Seven-Year Odyssey and Hidden Error That Transformed the World* (New York: Free Press, 2002).
+
+[29] 須賀隆 [T. Suga], 「ふたつの時系(その１)」, ブログ記事, 2012 年 8 月 7 日, https://suchowan.seesaa.net/article/201208article_7.html
+
+[30] F. R. Stephenson, *Historical Eclipses and Earth's Rotation* (Cambridge: Cambridge University Press, 1997), ISBN 0-521-46194-4 — §2.4, pp. 37–38(地球の自転の潮汐減速);Fig. 14.7, p. 514(紀元前 500 年から 1990 年までの一日の長さの観測変化と、潮汐摩擦のみによる傾向との対比)。
+
+[31] Bureau International de l'Heure, "On the Determination of Universal Time by the Time Services according to the Decisions of the General Assembly of the I.A.U. in Dublin (1955)", *Bulletin Horaire*, Series 4, No. 4 (July–August 1955) — UT2 = UT1 + ΔTS を定義し、1956 年 1 月 1 日から UT2 を報時することを時刻業務に指示。
+
+[32] CCIR Recommendation 460, "Standard-frequency and time-signal emissions" (Question 1/7) — 1970 年採択、1972 年 1 月 1 日 0000 h UT 発効。ITU-R 勧告 TF.460 として継続。
+
+[33] International Astronomical Union, Resolution B1.8, "Definition and use of celestial and terrestrial ephemeris origins"(第 24 回総会, 2000)— 勧告 3:「UT1 は、CIP の赤道に沿って CEO と TEO を指す単位ベクトルのあいだで測られる角として定義される地球回転角に、一次比例するものとする」。*IERS Conventions (2010)*, G. Petit and B. Luzum (eds.), IERS Technical Note 36 (Frankfurt am Main: Verlag des Bundesamts für Kartographie und Geodäsie, 2010), ISBN 3-89888-989-6 において実装。
+
+[34] ISO 80000-3:2006, *Quantities and units — Part 3: Space and time* — 項目 3-23(減衰係数、単位 s⁻¹ および Np/s)。
+
+[35] B. P. Leonard, "Proposal for the dimensionally consistent treatment of angle and solid angle by the International System of Units (SI)", *Metrologia* **58**(5) (2021) 052001.
+
+[36] 高橋秀俊 [H. Takahashi], 『電磁気学』 (東京: 裳華房, 1959), pp. 185–187(立体角を用いた磁気スカラーポテンシャルの導出)。
+
