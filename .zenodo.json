@@ -1,0 +1,29 @@
+{
+  "title": "When Should a Quantity Have Its Own Dimension? — Uniqueness of Natural Units as a Design Criterion",
+  "description": "<p>A kind of quantity may be expressed by pure numbers without loss of information <em>if and only if</em> it possesses a <em>unique</em> natural unit &mdash; a focal point on which independent parties would converge without prior communication. Where two or more comparably natural candidates exist, the kind should carry an independent dimension, and the displaced candidates become dimensioned constants of the system.</p><p>The criterion adjudicates the amount of substance (unique natural unit, the mole legitimate but optional), the plane and solid angles (two incommensurable candidates each; independent dimension required), and the baseless logarithm (three candidates, purely mathematical) within a single framework, and identifies the documented incoherence between the hertz and the radian per second, and the century-old rationalization controversy in electromagnetism, as the predicted failure modes of de-dimensionalizing non-unique kinds.</p><p>The paper proposes <strong>no change to the SI</strong>. It examines the Universal Unit System (UUS) / Harmonic System, which made the opposite design choice, as an existence proof.</p><p>This record contains the English version (canonical) and a Japanese translation.</p>",
+  "creators": [
+    {
+      "name": "Suga, Takashi",
+      "affiliation": "Independent researcher, Japan",
+      "orcid": "0009-0004-2637-9028"
+    }
+  ],
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "metrology",
+    "system of units",
+    "dimensional analysis",
+    "plane angle",
+    "solid angle",
+    "radian",
+    "amount of substance",
+    "logarithmic quantities",
+    "natural units",
+    "SI",
+    "Universal Unit System"
+  ],
+  "access_right": "open"
+}
