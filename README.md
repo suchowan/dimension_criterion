@@ -18,8 +18,8 @@ System, which made the opposite design choice, as an existence proof.
 
 | | |
 |---|---|
-| **英語版(正本)** | [manuscript.pdf](manuscript.pdf) |
-| **日本語版** | [manuscript_ja.md](manuscript_ja.md) |
+| **The paper — English (canonical)** | [manuscript.pdf](manuscript.pdf) |
+| **The paper — Japanese translation (日本語版)** | [manuscript_ja.md](manuscript_ja.md) |
 | Sources and build scripts | [`src/`](src/) |
 | Figures | [`fig/`](fig/) |
 
@@ -45,5 +45,5 @@ visible paragraphs rather than alt text.
 
 ## License
 
-CC BY 4.0
+CC BY 4.0 — © 2026 Takashi Suga (須賀 隆)
 
