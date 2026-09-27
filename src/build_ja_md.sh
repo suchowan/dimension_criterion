@@ -32,6 +32,23 @@ $DATE
 
 HEAD
 
+# --- 1b. table of contents ----------------------------------------------
+#     toc_ja.md is generated with github-slugger (GitHub's own slug rule:
+#     it strips 、。—— and the like, lowercases, and turns spaces into
+#     hyphens — not reproducible in sh), so it is kept as a committed file.
+#     The consistency check below fails loudly if the headings drift from it.
+HEADINGS=$(grep -cE '^(##|###) ' manuscript_ja.md)
+HEADINGS=$((HEADINGS - 1 + 1))          # less the subtitle, plus 参照文献
+TOCLINKS=$(grep -cE '^ *- \[' toc_ja.md)
+if [ "$HEADINGS" -ne "$TOCLINKS" ]; then
+  echo "build_ja_md.sh: toc_ja.md is out of date" >&2
+  echo "  headings in sources: $HEADINGS / entries in toc_ja.md: $TOCLINKS" >&2
+  echo "  regenerate it before building (see README)" >&2
+  exit 1
+fi
+cat toc_ja.md >> "$OUT"
+printf '\n---\n\n' >> "$OUT"
+
 # --- 2. body --------------------------------------------------------------
 #     (a) drop the title/subtitle headings supplied above
 #     (b) ![cap](../fig/X.png) → <img width> + a caption paragraph, and
