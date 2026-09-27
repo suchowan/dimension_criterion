@@ -27,7 +27,7 @@ The English version is canonical; where the two differ, the English governs.
 
 ## Citing
 
-*(Zenodo DOI to be inserted on release.)*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22991635.svg)](https://doi.org/10.5281/zenodo.22991635)
 
 ## Building
 
