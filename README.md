@@ -45,4 +45,5 @@ visible paragraphs rather than alt text.
 
 ## License
 
-*(to be decided)*
+CC BY 4.0
+

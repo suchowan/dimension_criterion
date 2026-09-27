@@ -1,6 +1,6 @@
 # References for *When Should a Quantity Have Its Own Dimension?*
 
-*Numbered in order of first appearance in the body text (manuscript.md). Bold bracketed items are unresolved flags (see action_items A/B).*
+*Numbered in order of first appearance in the body text (manuscript.md).*
 
 ---
 
