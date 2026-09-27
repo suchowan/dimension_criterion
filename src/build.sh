@@ -19,6 +19,9 @@ sed -n '/^## References$/,/^## Figures/p' references.md \
   > build/refs.md
 
 cat meta.yaml build/body.md build/refs.md > build/paper.md
-pandoc build/paper.md -o build/paper.docx --reference-doc=reference.docx 2>/dev/null \
-  || pandoc build/paper.md -o build/paper.docx
+# reference.docx tightens the spacing of the Title/Subtitle/Author/Date styles
+# so that the whole Abstract fits on page 1 — the adjustment that used to be made
+# by hand in Word after every build.  Absence of the file is an error, not a
+# silent fall-back to pandoc's defaults.
+pandoc build/paper.md -o build/paper.docx --reference-doc=reference.docx
 echo "built: build/paper.docx"

@@ -154,7 +154,7 @@ Indeed the two per-angle constants are the angular members of a wider family wit
 
 ### 5.3 A demonstration that the arithmetic closes
 
-Skepticism about dimensioned angles has always been less about principle than about practice: will real formulas, mixing several branches of physics, still balance? A compact test case is the relation between a planet's gravitational radius and its surface gravity. In the UUS, a rotating planet *X* is characterized by a small set of planet-local constants — its meridian *m*<sub>*X*</sub>, its solar *s*<sub>*X*</sub>, its gravity *g*<sub>*X*</sub> (together with a reference temperature *T*<sub>*X*</sub>) — and these are tied together by the identity
+Skepticism about dimensioned angles has always been less about principle than about practice: will real formulas, mixing several branches of physics, still balance? A compact test case is the relation between a planet's gravitational radius and its surface gravity. In the UUS, a rotating planet *X* is characterized by a quartet of planet-local constants — the family of Section 5.2 in its general form: its meridian *m*<sub>*X*</sub>, its solar *s*<sub>*X*</sub>, its gravity *g*<sub>*X*</sub> and a reference temperature *T*<sub>*X*</sub> — and *g*<sub>*X*</sub> and *m*<sub>*X*</sub> are tied together by the identity
 
   *g*<sub>*X*</sub> = *c*₀² *r*<sub>*X*</sub> (*m*<sub>*X*</sub> rad)⁻²,
 

@@ -12,6 +12,14 @@ TITLE=$(sed -n 's/^title: *"\(.*\)"/\1/p'    meta_ja.yaml)
 SUB=$(  sed -n 's/^subtitle: *"\(.*\)"/\1/p' meta_ja.yaml)
 NAME=$( sed -n 's/^author: *"\([^^]*\)\^\[.*/\1/p' meta_ja.yaml)
 DATE=$( sed -n 's/^date: *"\(.*\)"/\1/p'     meta_ja.yaml)
+#     the version of the English original is stated in the author footnote of
+#     meta_ja.yaml; read it from there so it lives in exactly one place.
+VER=$(sed -n 's/.*(v\([0-9][0-9.]*\), *[0-9][0-9][0-9][0-9]).*/\1/p' meta_ja.yaml)
+if [ -z "$VER" ]; then
+  echo "build_ja_md.sh: cannot read the version of the English original" >&2
+  echo "  expected \"(vN.N.N, YYYY)\" in the author footnote of meta_ja.yaml" >&2
+  exit 1
+fi
 
 # --- 1. title block -------------------------------------------------------
 #     GitHub renders YAML front matter as a table, so emit plain Markdown.
@@ -25,7 +33,7 @@ E-mail: suchowan@box.email.ne.jp
 $DATE
 
 > 本稿は英語版 *When Should a Quantity Have Its Own Dimension? — Uniqueness of
-> Natural Units as a Design Criterion* (v1.0) の日本語版である。相違がある場合は
+> Natural Units as a Design Criterion* (v$VER) の日本語版である。相違がある場合は
 > 英語版を正本とする。→ [manuscript.pdf](manuscript.pdf)
 
 ---
