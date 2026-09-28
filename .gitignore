@@ -13,3 +13,6 @@ desktop.ini
 
 # Build output
 src/build/
+
+# Temporary work files
+tmp/

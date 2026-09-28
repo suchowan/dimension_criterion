@@ -30,7 +30,7 @@
 
 [12] 須賀隆 [T. Suga], 「電磁気量の次元の一整理法」, 『パリティ』 **12**(4) (1997) 63–65. 英訳は [19] の Appendix B, pp. 20–25。
 
-[13] JCGM 200:2012, *International Vocabulary of Metrology (VIM)*, 3rd edn — 定義 1.1(量)および 1.9(測定単位)。
+[13] JCGM 200:2012, *International Vocabulary of Metrology (VIM)*, 3rd edn — 定義 1.1(量)、1.3(量の体系)、1.9(測定単位)、1.12(コヒレントな組立単位)。
 
 [14] T. C. Schelling, *The Strategy of Conflict* (Cambridge, MA: Harvard University Press, 1960), ch. 3.
 

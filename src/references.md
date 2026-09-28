@@ -30,7 +30,7 @@
 
 [12] T. Suga, "電磁気量の次元の一整理法" [A method for rearranging the dimensions of electromagnetic quantities], *パリティ (Parity)* **12**(4) (1997) 63–65. English translation: Appendix B of [19], pp. 20–25.
 
-[13] JCGM 200:2012, *International Vocabulary of Metrology (VIM)*, 3rd edn — definitions 1.1 (quantity) and 1.9 (measurement unit).
+[13] JCGM 200:2012, *International Vocabulary of Metrology (VIM)*, 3rd edn — definitions 1.1 (quantity), 1.3 (system of quantities), 1.9 (measurement unit) and 1.12 (coherent derived unit).
 
 [14] T. C. Schelling, *The Strategy of Conflict* (Cambridge, MA: Harvard University Press, 1960), ch. 3.
 
