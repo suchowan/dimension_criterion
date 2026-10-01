@@ -4,10 +4,10 @@
 
 須賀 隆 (Takashi Suga) — 独立研究者、日本
 E-mail: suchowan@box.email.ne.jp
-2026年9月28日
+2026年10月1日
 
 > 本稿は英語版 *When Should a Quantity Have Its Own Dimension? — Uniqueness of
-> Natural Units as a Design Criterion* (v1.0.1) の日本語版である。相違がある場合は
+> Natural Units as a Design Criterion* (v1.0.2) の日本語版である。相違がある場合は
 > 英語版を正本とする。→ [manuscript.pdf](manuscript.pdf)
 
 ---
@@ -362,7 +362,7 @@ UUS の単位表 [11, Table 4] は、基本単位を二つの範疇に整理し�
 
 [18] 須賀隆 [T. Suga], 「物質量の単位 mol の細くない話」, ブログ記事, 2026 年 3 月 6 日, https://suchowan.seesaa.net/article/202603article_6.html
 
-[19] T. Suga, *Proposal for the Universal Unit System* (univunit-e.pdf), 2002;ファイル最終更新 2002-02-10;第三者による最古のアーカイブは 2015 年 11 月 4 日: https://web.archive.org/web/20151104111649/https://www.asahi-net.or.jp/~dd6t-sg/univunit-e/univunit-e.pdf ;現行の複製: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/univunit-e.pdf — §3.2.2、Appendix A.2、A.3、Appendix B のために引用。
+[19] T. Suga, *Proposal for the Universal Unit System* (univunit-e.pdf), 2002;ファイル最終更新 2002-02-10;第三者による最古のアーカイブは 2015 年 11 月 4 日: https://web.archive.org/web/20151104111649/https://www.asahi-net.or.jp/~dd6t-sg/univunit-e/univunit-e.pdf ;現行の複製: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/univunit-e.pdf — §3.2.2、Appendix A.2、A.3、Appendix B のために引用。 正誤表: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/Errata.md
 
 [20] 高田誠二 [S. Takada], 『単位と単位系』 (東京: 共立出版, 1980), pp. 45–50(コヒレンスの相対性についての分析の典拠。脚注 (6) で [19, App. A.3] とともに引用)。
 

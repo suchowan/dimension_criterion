@@ -42,7 +42,7 @@
 
 [18] T. Suga, "物質量の単位 mol の細くない話" [On the unit mole], blog post, 6 Mar 2026, https://suchowan.seesaa.net/article/202603article_6.html
 
-[19] T. Suga, *Proposal for the Universal Unit System* (univunit-e.pdf), 2002; file last modified 2002-02-10; earliest third-party archive 4 Nov 2015: https://web.archive.org/web/20151104111649/https://www.asahi-net.or.jp/~dd6t-sg/univunit-e/univunit-e.pdf ; current copy: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/univunit-e.pdf — cited for §3.2.2, Appendix A.2, A.3, Appendix B.
+[19] T. Suga, *Proposal for the Universal Unit System* (univunit-e.pdf), 2002; file last modified 2002-02-10; earliest third-party archive 4 Nov 2015: https://web.archive.org/web/20151104111649/https://www.asahi-net.or.jp/~dd6t-sg/univunit-e/univunit-e.pdf ; current copy: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/univunit-e.pdf — cited for §3.2.2, Appendix A.2, A.3, Appendix B. Errata: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/Errata.md
 
 [20] 高田誠二 [S. Takada], 『単位と単位系』 [*Units and Systems of Units*]. (東京: 共立出版 [Tokyo: Kyoritsu Shuppan], 1980), pp. 45–50 (source of the coherence-is-relative analysis, cited in footnote (6) together with [19, App. A.3])
 

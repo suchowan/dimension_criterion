@@ -42,7 +42,7 @@
 
 [18] 須賀隆 [T. Suga], 「物質量の単位 mol の細くない話」, ブログ記事, 2026 年 3 月 6 日, https://suchowan.seesaa.net/article/202603article_6.html
 
-[19] T. Suga, *Proposal for the Universal Unit System* (univunit-e.pdf), 2002;ファイル最終更新 2002-02-10;第三者による最古のアーカイブは 2015 年 11 月 4 日: https://web.archive.org/web/20151104111649/https://www.asahi-net.or.jp/~dd6t-sg/univunit-e/univunit-e.pdf ;現行の複製: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/univunit-e.pdf — §3.2.2、Appendix A.2、A.3、Appendix B のために引用。
+[19] T. Suga, *Proposal for the Universal Unit System* (univunit-e.pdf), 2002;ファイル最終更新 2002-02-10;第三者による最古のアーカイブは 2015 年 11 月 4 日: https://web.archive.org/web/20151104111649/https://www.asahi-net.or.jp/~dd6t-sg/univunit-e/univunit-e.pdf ;現行の複製: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/univunit-e.pdf — §3.2.2、Appendix A.2、A.3、Appendix B のために引用。 正誤表: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/Errata.md
 
 [20] 高田誠二 [S. Takada], 『単位と単位系』 (東京: 共立出版, 1980), pp. 45–50(コヒレンスの相対性についての分析の典拠。脚注 (6) で [19, App. A.3] とともに引用)。
 
