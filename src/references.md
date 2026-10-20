@@ -26,57 +26,61 @@
 
 [10] M. I. Kalinin, "On the dual nature of a plane angle", arXiv:2605.06586 [physics.class-ph] (2026). DOI: 10.48550/arXiv.2605.06586
 
-[11] T. Suga, *Proposal for the Universal Unit System* (revised.pdf, 2026), https://github.com/suchowan/a_converter/blob/master/doc/revised.pdf — cited throughout by table and appendix: Table 4 (units), Table 8 (Earth-local extension), Appendix C eqs. (8)–(9).
+[11] A. J. Lewis and T. J. Coveney, "Angles in the SI—a practical dimensional metrologist viewpoint", *Metrologia* **63** (2026) 023002 (Letter to the Editor). DOI: 10.1088/1681-7575/ae3dee. Corrigendum: *Metrologia* **63** (2026) 029502. DOI: 10.1088/1681-7575/ae5a86.
 
-[12] T. Suga, "電磁気量の次元の一整理法" [A method for rearranging the dimensions of electromagnetic quantities], *パリティ (Parity)* **12**(4) (1997) 63–65. English translation: Appendix B of [19], pp. 20–25.
+[12] P. Quincey, "Comment on 'Dimensionless units in the SI'", arXiv:1505.07230 [physics.data-an] (2015). DOI: 10.48550/arXiv.1505.07230. — preprint.
 
-[13] JCGM 200:2012, *International Vocabulary of Metrology (VIM)*, 3rd edn — definitions 1.1 (quantity), 1.3 (system of quantities), 1.9 (measurement unit) and 1.12 (coherent derived unit).
+[13] I. M. Mills, B. N. Taylor and A. J. Thor, "Definitions of the units radian, neper, bel and decibel", *Metrologia* **38** (2001) 353–361. DOI: 10.1088/0026-1394/38/4/8
 
-[14] T. C. Schelling, *The Strategy of Conflict* (Cambridge, MA: Harvard University Press, 1960), ch. 3.
+[14] T. Suga, *Proposal for the Universal Unit System* (revised.pdf, 2026), https://github.com/suchowan/a_converter/blob/master/doc/revised.pdf — cited throughout by table and appendix: Table 4 (units), Table 8 (Earth-local extension), Appendix C eqs. (8)–(9).
 
-[15] G. Kuroki, remark on X (Twitter), 14 Jan 2017, https://x.com/genkuroki/status/820174724021899265 (accessed 2026-07).
+[15] T. Suga, "電磁気量の次元の一整理法" [A method for rearranging the dimensions of electromagnetic quantities], *パリティ (Parity)* **12**(4) (1997) 63–65. English translation: Appendix B of [18], pp. 20–25.
 
-[16] P. Quincey, "Comment on 'Dimensionless units in the SI'", arXiv:1505.07230 [physics.data-an] (2015). DOI: 10.48550/arXiv.1505.07230. — preprint.
+[16] JCGM 200:2012, *International Vocabulary of Metrology (VIM)*, 3rd edn — definitions 1.1 (quantity), 1.3 (system of quantities), 1.9 (measurement unit) and 1.12 (coherent derived unit).
 
-[17] A. Y. Aikhenvald, *Classifiers: A Typology of Noun Categorization Devices* (Oxford: Oxford University Press, 2000).
+[17] 高田誠二 [S. Takada], 『単位と単位系』 [*Units and Systems of Units*]. (東京: 共立出版 [Tokyo: Kyoritsu Shuppan], 1980), pp. 45–50 (source of the coherence-is-relative analysis, cited in footnote (6) together with [18, App. A.3])
 
-[18] T. Suga, "物質量の単位 mol の細くない話" [On the unit mole], blog post, 6 Mar 2026, https://suchowan.seesaa.net/article/202603article_6.html
+[18] T. Suga, *Proposal for the Universal Unit System* (univunit-e.pdf), 2002; file last modified 2002-02-10; earliest third-party archive 4 Nov 2015: https://web.archive.org/web/20151104111649/https://www.asahi-net.or.jp/~dd6t-sg/univunit-e/univunit-e.pdf ; current copy: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/univunit-e.pdf — cited for §3.2.2, Appendix A.2, A.3, Appendix B. Errata: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/Errata.md
 
-[19] T. Suga, *Proposal for the Universal Unit System* (univunit-e.pdf), 2002; file last modified 2002-02-10; earliest third-party archive 4 Nov 2015: https://web.archive.org/web/20151104111649/https://www.asahi-net.or.jp/~dd6t-sg/univunit-e/univunit-e.pdf ; current copy: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/univunit-e.pdf — cited for §3.2.2, Appendix A.2, A.3, Appendix B. Errata: https://github.com/suchowan/a_converter/blob/master/doc/dozenal_com/Errata.md
+[19] T. C. Schelling, *The Strategy of Conflict* (Cambridge, MA: Harvard University Press, 1960), ch. 3.
 
-[20] 高田誠二 [S. Takada], 『単位と単位系』 [*Units and Systems of Units*]. (東京: 共立出版 [Tokyo: Kyoritsu Shuppan], 1980), pp. 45–50 (source of the coherence-is-relative analysis, cited in footnote (6) together with [19, App. A.3])
+[20] G. Kuroki, remark on X (Twitter), 14 Jan 2017, https://x.com/genkuroki/status/820174724021899265 (accessed 2026-07).
 
-[21] C. E. Shannon, "A Mathematical Theory of Communication", *Bell System Technical Journal* **27** (1948) 379–423, 623–656; the identification of logarithmic base with unit of information is at pp. 379–380.
+[21] A. Y. Aikhenvald, *Classifiers: A Typology of Noun Categorization Devices* (Oxford: Oxford University Press, 2000).
 
-[22] I. M. Mills, B. N. Taylor and A. J. Thor, "Definitions of the units radian, neper, bel and decibel", *Metrologia* **38** (2001) 353–361. DOI: 10.1088/0026-1394/38/4/8
+[22] T. Suga, "物質量の単位 mol の細くない話" [On the unit mole], blog post, 6 Mar 2026, https://suchowan.seesaa.net/article/202603article_6.html
 
-[23] ISO 80000-13:2025, *Quantities and units — Part 13: Information science and technology*, 2nd edn (first published 2008) — units shannon (Sh), hartley (Hart), natural unit of information (nat).
+[23] C. E. Shannon, "A Mathematical Theory of Communication", *Bell System Technical Journal* **27** (1948) 379–423, 623–656; the identification of logarithmic base with unit of information is at pp. 379–380.
 
-[24] I. M. Mills and C. Morfey, "On logarithmic ratio quantities and their units", *Metrologia* **42**(4) (2005) 246–252. DOI: 10.1088/0026-1394/42/4/008
+[24] ISO 80000-13:2025, *Quantities and units — Part 13: Information science and technology*, 2nd edn (first published 2008) — units shannon (Sh), hartley (Hart), natural unit of information (nat).
 
-[25] A. Kritchevsky, "Everything Is Logarithms", blog essay, 25 May 2026, https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html
+[25] I. M. Mills and C. Morfey, "On logarithmic ratio quantities and their units", *Metrologia* **42**(4) (2005) 246–252. DOI: 10.1088/0026-1394/42/4/008
 
-[26] W. E. Eder, "A viewpoint on the quantity 'plane angle'", *Metrologia* **18** (1982) 1–12. DOI: 10.1088/0026-1394/18/1/002. (Corrigendum: *Metrologia* **18** (1982) 171.)
+[26] A. Kritchevsky, "Everything Is Logarithms", blog essay, 25 May 2026, https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html
 
-[27] T. Suga, *UUS Glossary*, §§1, 8, 9, 12–13, https://github.com/suchowan/a_converter/blob/master/doc/glossary.md — definitions of ♮mol (incl. activity as ♮mol per unit time), Ω₂ (incl. its role in the energy density and the field equation), meridian (m_E, with the rectifying radius), solar (s_E), and the r_E identity.
+[27] W. E. Eder, "A viewpoint on the quantity 'plane angle'", *Metrologia* **18** (1982) 1–12. DOI: 10.1088/0026-1394/18/1/002. (Corrigendum: *Metrologia* **18** (1982) 171.)
 
-[28] K. Alder, *The Measure of All Things: The Seven-Year Odyssey and Hidden Error That Transformed the World* (New York: Free Press, 2002).
+[28] T. Suga, *UUS Glossary*, §§1, 8, 9, 12–13, https://github.com/suchowan/a_converter/blob/master/doc/glossary.md — definitions of ♮mol (incl. activity as ♮mol per unit time), Ω₂ (incl. its role in the energy density and the field equation), meridian (m_E, with the rectifying radius), solar (s_E), and the r_E identity.
 
-[29] T. Suga, "ふたつの時系(その１)" [Two systems of time (1)], blog post, 7 Aug 2012, https://suchowan.seesaa.net/article/201208article_7.html
+[29] K. Alder, *The Measure of All Things: The Seven-Year Odyssey and Hidden Error That Transformed the World* (New York: Free Press, 2002).
 
-[30] F. R. Stephenson, *Historical Eclipses and Earth's Rotation* (Cambridge: Cambridge University Press, 1997), ISBN 0-521-46194-4 — §2.4, pp. 37–38 (tidal deceleration of the Earth's spin); Fig. 14.7, p. 514 (observed change in the length of the day from −500 to +1990, against the tidal-friction-only trend).
+[30] T. Suga, "ふたつの時系(その１)" [Two systems of time (1)], blog post, 7 Aug 2012, https://suchowan.seesaa.net/article/201208article_7.html
 
-[31] Bureau International de l'Heure, "On the Determination of Universal Time by the Time Services according to the Decisions of the General Assembly of the I.A.U. in Dublin (1955)", *Bulletin Horaire*, Series 4, No. 4 (July–August 1955) — defines UT2 = UT1 + ΔTS and directs time services to transmit UT2 from 1 January 1956.
+[31] 28th General Conference on Weights and Measures (CGPM, 2026), Draft Resolution C, "On the technical actions needed to ensure the continuity of UTC" (adopted 15 October 2026), https://www.bipm.org/documents/d/guest/cgpm-2026-draft-resolutions.
 
-[32] CCIR Recommendation 460, "Standard-frequency and time-signal emissions" (Question 1/7), adopted 1970; in force from 1 January 1972, 0000 h UT. Continued as ITU-R Recommendation TF.460.
+[32] F. R. Stephenson, *Historical Eclipses and Earth's Rotation* (Cambridge: Cambridge University Press, 1997), ISBN 0-521-46194-4 — §2.4, pp. 37–38 (tidal deceleration of the Earth's spin); Fig. 14.7, p. 514 (observed change in the length of the day from −500 to +1990, against the tidal-friction-only trend).
 
-[33] International Astronomical Union, Resolution B1.8, "Definition and use of celestial and terrestrial ephemeris origins" (XXIVth General Assembly, 2000) — Recommendation 3: "that UT1 be linearly proportional to the Earth Rotation Angle defined as the angle measured along the equator of the CIP between the unit vectors directed toward the CEO and the TEO." Implemented in *IERS Conventions (2010)*, G. Petit and B. Luzum (eds.), IERS Technical Note 36 (Frankfurt am Main: Verlag des Bundesamts für Kartographie und Geodäsie, 2010), ISBN 3-89888-989-6.
+[33] Bureau International de l'Heure, "On the Determination of Universal Time by the Time Services according to the Decisions of the General Assembly of the I.A.U. in Dublin (1955)", *Bulletin Horaire*, Series 4, No. 4 (July–August 1955) — defines UT2 = UT1 + ΔTS and directs time services to transmit UT2 from 1 January 1956.
 
-[34] ISO 80000-3:2006, *Quantities and units — Part 3: Space and time*, item 3-23 (damping coefficient, units s⁻¹ and Np/s).
+[34] CCIR Recommendation 460, "Standard-frequency and time-signal emissions" (Question 1/7), adopted 1970; in force from 1 January 1972, 0000 h UT. Continued as ITU-R Recommendation TF.460.
 
-[35] B. P. Leonard, "Proposal for the dimensionally consistent treatment of angle and solid angle by the International System of Units (SI)", *Metrologia* **58**(5) (2021) 052001.
+[35] International Astronomical Union, Resolution B1.8, "Definition and use of celestial and terrestrial ephemeris origins" (XXIVth General Assembly, 2000) — Recommendation 3: "that UT1 be linearly proportional to the Earth Rotation Angle defined as the angle measured along the equator of the CIP between the unit vectors directed toward the CEO and the TEO." Implemented in *IERS Conventions (2010)*, G. Petit and B. Luzum (eds.), IERS Technical Note 36 (Frankfurt am Main: Verlag des Bundesamts für Kartographie und Geodäsie, 2010), ISBN 3-89888-989-6.
 
-[36] 高橋秀俊 [H. Takahashi], 『電磁気学』 [*Electromagnetism*] (東京: 裳華房 [Tokyo: Shokabo], 1959), pp. 185–187 (derivation of the magnetic scalar potential via solid angle).
+[36] ISO 80000-3:2006, *Quantities and units — Part 3: Space and time*, item 3-23 (damping coefficient, units s⁻¹ and Np/s).
+
+[37] B. P. Leonard, "Proposal for the dimensionally consistent treatment of angle and solid angle by the International System of Units (SI)", *Metrologia* **58**(5) (2021) 052001.
+
+[38] 高橋秀俊 [H. Takahashi], 『電磁気学』 [*Electromagnetism*] (東京: 裳華房 [Tokyo: Shokabo], 1959), pp. 185–187 (derivation of the magnetic scalar potential via solid angle).
 
 ---
 

@@ -46,7 +46,7 @@ HEAD
 #     hyphens — not reproducible in sh), so it is kept as a committed file.
 #     The consistency check below fails loudly if the headings drift from it.
 HEADINGS=$(grep -cE '^(##|###) ' manuscript_ja.md)
-HEADINGS=$((HEADINGS - 1 + 1))          # less the subtitle, plus 参照文献
+HEADINGS=$((HEADINGS - 1 + 1))          # less the subtitle, plus 参考文献
 TOCLINKS=$(grep -cE '^ *- \[' toc_ja.md)
 if [ "$HEADINGS" -ne "$TOCLINKS" ]; then
   echo "build_ja_md.sh: toc_ja.md is out of date" >&2
@@ -64,7 +64,7 @@ printf '\n---\n\n' >> "$OUT"
 #         (GitHub ignores {width=} and never displays alt text)
 #     (c) (a)/(b)/(c) sub-labels → (1)/(2)/(3): some fonts ligate "(c)" into ©
 sed -e '1{/^# /d;}' -e '2{/^## /d;}' manuscript_ja.md \
-  | sed -E 's#^!\[\*\*(図 [0-9]+\.)\*\* ([^]]*)\]\((\.\./)?fig/([^)]*)\)#<img src="fig/\4" width="480">\n\n***\1** \2*#' \
+  | sed -E 's#^!\[\*\*(図 [0-9]+\.)\*\* (.*)\]\((\.\./)?fig/([^)]*)\)#<img src="fig/\4" width="480">\n\n***\1** \2*#' \
   | sed -e 's#^\*\*(a) #**(1) #' \
         -e 's#^\*\*(b) #**(2) #' \
         -e 's#^\*\*(c) #**(3) #' \
@@ -73,6 +73,6 @@ sed -e '1{/^# /d;}' -e '2{/^## /d;}' manuscript_ja.md \
 
 # --- 3. references --------------------------------------------------------
 printf '\n---\n\n' >> "$OUT"
-sed -n '/^## 参照文献$/,$p' references_ja.md >> "$OUT"
+sed -n '/^## 参考文献$/,$p' references_ja.md >> "$OUT"
 
 echo "built: $OUT"
