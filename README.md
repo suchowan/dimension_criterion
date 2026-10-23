@@ -4,12 +4,15 @@
 
 Takashi Suga — independent researcher, Japan
 
-A kind of quantity may be expressed by pure numbers without loss of information
-**if and only if it possesses a unique natural unit** — a focal point on which
-independent parties would converge without prior communication. Where two or
-more comparably natural candidates exist, the kind should carry an independent
-dimension, and the displaced candidates become dimensioned constants of the
-system.
+For a specified kind of quantity, a pure number identifies the quantity without
+a separately communicated reference convention only when the kind possesses a
+**unique natural unit** — a focal point on which independent parties would
+converge without prior communication. If it has one, an independent dimension is
+optional (C1). Where two or more comparably natural candidates exist, a distinct
+dimension is recommended (C2): it makes distinctions between kinds testable
+within equations (D), while the choice between units of the same kind is still
+recorded by unit labels or named, dimensioned constants — the displaced
+candidates of the system (N).
 
 The criterion adjudicates the amount of substance, the plane and solid angles,
 and the baseless logarithm within a single framework. The paper proposes **no
