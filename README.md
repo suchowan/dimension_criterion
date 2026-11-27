@@ -8,16 +8,19 @@ For a specified kind of quantity, a pure number identifies the quantity without
 a separately communicated reference convention only when the kind possesses a
 **unique natural unit** — a focal point on which independent parties would
 converge without prior communication. If it has one, an independent dimension is
-optional (C1). Where two or more comparably natural candidates exist, a distinct
-dimension is recommended (C2): it makes distinctions between kinds testable
-within equations (D), while the choice between units of the same kind is still
-recorded by unit labels or named, dimensioned constants — the displaced
-candidates of the system (N).
+optional (C1). Where it has none — no salient candidate (C2a), or two or more
+comparably natural candidates (C2b) — a distinct dimension is recommended (C2):
+it makes confusions between kinds detectable within equations (K), while the
+choice between units of the same kind is still recorded by unit labels or named,
+dimensioned constants — the displaced candidates of the system (U). A third type,
+confusing distinct quantities of one kind (Q), is caught by neither.
 
 The criterion adjudicates the amount of substance, the plane and solid angles,
-and the baseless logarithm within a single framework. The paper proposes **no
-change to the SI**; it examines the Universal Unit System (UUS) / Harmonic
-System, which made the opposite design choice, as an existence proof.
+and the baseless logarithm within a single framework, and a table of nine pairs
+of quantities shows where each reading records the factor that distinguishes
+them. The paper proposes **no change to the SI**; it examines the Universal Unit
+System (UUS) / Harmonic System, which made the opposite design choice, as an
+existence proof.
 
 | | |
 |---|---|
